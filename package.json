@@ -1,0 +1,9 @@
+
+{
+  "name": "klavia-playoffs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-data": "node scripts/update-data.mjs"
+  }
+}

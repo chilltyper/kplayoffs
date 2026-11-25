@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Klavia Playoffs</title>
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <script type="module" src="js/app.js" defer></script>
+</head>
+
+<body>
+
+  <header class="header" id="overview">
+
+    <a href="#overview" class="brand">
+      <span class="brand-icon">K</span>
+      <span>
+        <strong>KLAVIA</strong>
+        <small>PLAYOFFS ARCHIVE</small>
+      </span>
+    </a>
+
+    <nav class="navigation">
+      <a href="#overview">Overview</a>
+      <a href="#leaderboard">Leaderboards</a>
+      <a href="#mvp">MVP</a>
+    </nav>
+
+  </header>
+
+  <main class="container">
+
+    <section class="intro">
+      <p class="eyebrow">COMPETITIVE ARCHIVE / ALL SEASONS</p>
+
+      <h1>Playoffs <span>Statistics.</span></h1>
+
+      <p class="intro-description">
+        A complete record of playoff performances,
+        competitors, and statistics across every season.
+      </p>
+    </section>
+
+    <section class="stats-overview">
+
+      <article class="stat-card">
+        <span>Seasons</span>
+        <strong id="season-count">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Total duels</span>
+        <strong id="duel-count">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Unique players</span>
+        <strong id="player-count">—</strong>
+      </article>
+
+    </section>
+
+    <section class="leaderboard-section" id="leaderboard">
+
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">OVERALL RANKINGS</p>
+          <h2>All-Time Leaderboard</h2>
+          <p>Click any column heading to sort the rankings.</p>
+        </div>
+
+        <span class="top-label">TOP 100</span>
+      </div>
+
+      <div class="table-status" id="table-status">
+        Preparing leaderboard...
+      </div>
+
+      <div class="table-wrapper">
+
+        <table id="leaderboard-table">
+
+          <thead>
+            <tr>
+              <th>Rank</th>
+
+              <th>
+                <button data-sort="displayName" data-label="Player">
+                  Player
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="teams" data-label="Teams">
+                  Teams
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="totalRaces" data-label="Total races">
+                  Total races
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="avgWpm" data-label="Avg. WPM">
+                  Avg. WPM
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="avgAccuracy" data-label="Avg. accuracy">
+                  Avg. accuracy
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="duelsPlayed" data-label="Duels">
+                  Duels
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="seasonsPlayed" data-label="Seasons">
+                  Seasons
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="avgRacesPerDuel" data-label="Races / duel">
+                  Races / duel
+                </button>
+              </th>
+
+              <th>
+                <button data-sort="avgRacesPerSeason" data-label="Races / season">
+                  Races / season
+                </button>
+              </th>
+            </tr>
+          </thead>
+
+          <tbody id="leaderboard-body">
+          </tbody>
+
+        </table>
+
+      </div>
+
+      <p class="table-footer">
+        Rankings include all eligible players. Showing a maximum of 100.
+      </p>
+
+    </section>
+
+    <section class="mvp-section" id="mvp">
+
+      <p class="eyebrow">MANUAL RANKINGS</p>
+      <h2>Playoffs MVP</h2>
+
+      <p>
+        The MVP leaderboard will be maintained separately
+        from the automatically calculated statistics.
+      </p>
+
+      <span class="coming-label">COMING SOON</span>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <span>KLAVIA PLAYOFFS ARCHIVE</span>
+    <span>COMPETITIVE STATISTICS</span>
+  </footer>
+
+</body>
+</html>
