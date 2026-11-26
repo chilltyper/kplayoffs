@@ -1,0 +1,22 @@
+{
+  "id": 1897,
+  "season": "Alpha",
+  "racerCount": 1,
+  "racers": [
+    {
+      "racerId": "62780",
+      "userName": "kalalt",
+      "displayName": "Kal ALT 1",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "Ecstatic",
+      "races": 21,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 96.5,
+      "accuracy": 95.55,
+      "perfectAccuracy": 0,
+      "points": 0
+    }
+  ]
+}

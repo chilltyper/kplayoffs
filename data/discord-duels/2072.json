@@ -1,0 +1,82 @@
+{
+  "id": 2072,
+  "season": "Season 2",
+  "racerCount": 5,
+  "racers": [
+    {
+      "racerId": "27656",
+      "userName": "spookypotato",
+      "displayName": "spookypotato",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "ZLIME",
+      "races": 52,
+      "dqs": 2,
+      "dqRate": 3.7,
+      "wpm": 110,
+      "accuracy": 95.61,
+      "perfectAccuracy": 1,
+      "points": 13036
+    },
+    {
+      "racerId": "56869",
+      "userName": "typing_kitty_17",
+      "displayName": "-Typing_Kitty- YT",
+      "tier": "C",
+      "team": "DISBAND",
+      "squad": "SLIME",
+      "races": 99,
+      "dqs": 10,
+      "dqRate": 9.17,
+      "wpm": 67.2,
+      "accuracy": 95.16,
+      "perfectAccuracy": 1,
+      "points": 17639
+    },
+    {
+      "racerId": "63095",
+      "userName": "drizzy",
+      "displayName": " Kairos ⁶𓅓",
+      "tier": "B",
+      "team": "DISBAND",
+      "squad": "SLIME",
+      "races": 75,
+      "dqs": 1,
+      "dqRate": 1.32,
+      "wpm": 69,
+      "accuracy": 93.72,
+      "perfectAccuracy": 0,
+      "points": 12317
+    },
+    {
+      "racerId": "63571",
+      "userName": "1xe4",
+      "displayName": "Lotus -FL Hiring contact me",
+      "tier": "A",
+      "team": "FL",
+      "squad": "",
+      "races": 76,
+      "dqs": 6,
+      "dqRate": 7.32,
+      "wpm": 102.3,
+      "accuracy": 96.4,
+      "perfectAccuracy": 0,
+      "points": 19056
+    },
+    {
+      "racerId": "63844",
+      "userName": "grassrootfire99",
+      "displayName": "TicTac",
+      "tier": "B",
+      "team": "FL",
+      "squad": "",
+      "races": 93,
+      "dqs": 2,
+      "dqRate": 2.11,
+      "wpm": 109.7,
+      "accuracy": 97.04,
+      "perfectAccuracy": 0,
+      "points": 25352
+    }
+  ]
+}

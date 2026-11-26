@@ -1,0 +1,22 @@
+{
+  "id": 1924,
+  "season": "Season 1",
+  "racerCount": 1,
+  "racers": [
+    {
+      "racerId": "63316",
+      "userName": "girlofbooks3",
+      "displayName": "Book Girl-still too fast ",
+      "tier": "A",
+      "team": "XGR",
+      "squad": "Leaders",
+      "races": 20,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 143.1,
+      "accuracy": 92.64,
+      "perfectAccuracy": 0,
+      "points": 4888
+    }
+  ]
+}

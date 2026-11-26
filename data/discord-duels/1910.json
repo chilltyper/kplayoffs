@@ -1,0 +1,22 @@
+{
+  "id": 1910,
+  "season": "Season 1",
+  "racerCount": 1,
+  "racers": [
+    {
+      "racerId": "62935",
+      "userName": "soul",
+      "displayName": "tragedy",
+      "tier": "B",
+      "team": "ZN",
+      "squad": "𝓩𝓮𝓷𝓲𝓽𝓱",
+      "races": 20,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 100.9,
+      "accuracy": 95.62,
+      "perfectAccuracy": 0,
+      "points": 4721
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1912,
+  "season": "Season 1",
+  "racerCount": 4,
+  "racers": [
+    {
+      "racerId": "19573",
+      "userName": "suthe8",
+      "displayName": "🔥βᒪ𝐚𝓩Ɨ𝐍𝕘βƗᒪᒪ𝔂🔥Got theRosyNutty",
+      "tier": "A",
+      "team": "CHAOS",
+      "squad": "Elite Member",
+      "races": 19,
+      "dqs": 3,
+      "dqRate": 13.64,
+      "wpm": 76.9,
+      "accuracy": 96.07,
+      "perfectAccuracy": 0,
+      "points": 3877
+    },
+    {
+      "racerId": "62936",
+      "userName": "squeakyviolinist",
+      "displayName": "Charlie",
+      "tier": "A",
+      "team": "CHAOS",
+      "squad": "Speed and Accuracy",
+      "races": 2,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 73.4,
+      "accuracy": 94.97,
+      "perfectAccuracy": 0,
+      "points": 376
+    },
+    {
+      "racerId": "63132",
+      "userName": "clowny6",
+      "displayName": "clowny6",
+      "tier": "C",
+      "team": "CHAOS",
+      "squad": "Keys to Success",
+      "races": 11,
+      "dqs": 1,
+      "dqRate": 8.33,
+      "wpm": 16.7,
+      "accuracy": 92.41,
+      "perfectAccuracy": 0,
+      "points": 911
+    },
+    {
+      "racerId": "63498",
+      "userName": "monkey8",
+      "displayName": "monkey8",
+      "tier": "B",
+      "team": "CHAOS",
+      "squad": "Keys to Success",
+      "races": 3,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 25.7,
+      "accuracy": 95.01,
+      "perfectAccuracy": 0,
+      "points": 341
+    }
+  ]
+}

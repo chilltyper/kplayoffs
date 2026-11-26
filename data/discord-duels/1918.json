@@ -1,0 +1,37 @@
+{
+  "id": 1918,
+  "season": "Season 1",
+  "racerCount": 2,
+  "racers": [
+    {
+      "racerId": "40615",
+      "userName": "jay_jacksongh",
+      "displayName": "JayJacksonGH",
+      "tier": "A",
+      "team": "STARS",
+      "squad": "STARCore",
+      "races": 20,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 79.3,
+      "accuracy": 98.83,
+      "perfectAccuracy": 5,
+      "points": 4871
+    },
+    {
+      "racerId": "62965",
+      "userName": "uselesssaber",
+      "displayName": "uselesssaber",
+      "tier": "C",
+      "team": "STARS",
+      "squad": "Average",
+      "races": 5,
+      "dqs": 4,
+      "dqRate": 44.44,
+      "wpm": 59.2,
+      "accuracy": 100,
+      "perfectAccuracy": 5,
+      "points": 1092
+    }
+  ]
+}

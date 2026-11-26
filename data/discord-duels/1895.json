@@ -1,0 +1,52 @@
+{
+  "id": 1895,
+  "season": "Alpha",
+  "racerCount": 3,
+  "racers": [
+    {
+      "racerId": "32380",
+      "userName": "loffafm",
+      "displayName": "loffafm",
+      "tier": "B",
+      "team": "STARS",
+      "squad": "STARCore",
+      "races": 20,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 75,
+      "accuracy": 95.92,
+      "perfectAccuracy": 0,
+      "points": 0
+    },
+    {
+      "racerId": "40615",
+      "userName": "jay_jacksongh",
+      "displayName": "JayJacksonGH",
+      "tier": "A",
+      "team": "STARS",
+      "squad": "STARCore",
+      "races": 20,
+      "dqs": 5,
+      "dqRate": 20,
+      "wpm": 96.3,
+      "accuracy": 98.38,
+      "perfectAccuracy": 2,
+      "points": 0
+    },
+    {
+      "racerId": "62739",
+      "userName": "shadow",
+      "displayName": "Shadow",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "404 Not Found",
+      "races": 78,
+      "dqs": 17,
+      "dqRate": 17.89,
+      "wpm": 95.1,
+      "accuracy": 95.67,
+      "perfectAccuracy": 0,
+      "points": 0
+    }
+  ]
+}

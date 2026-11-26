@@ -1,0 +1,37 @@
+{
+  "id": 1908,
+  "season": "Season 1",
+  "racerCount": 2,
+  "racers": [
+    {
+      "racerId": "63237",
+      "userName": "maniac_kobalt",
+      "displayName": "⭐𝙈𝙖𝙣𝙞𝙖𝙘_𝙆𝙤𝙗𝙖𝙡𝙩⭐",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "Frosty",
+      "races": 20,
+      "dqs": 4,
+      "dqRate": 16.67,
+      "wpm": 109.8,
+      "accuracy": 94.6,
+      "perfectAccuracy": 0,
+      "points": 4675
+    },
+    {
+      "racerId": "63336",
+      "userName": "simonm",
+      "displayName": "𝕄𝕒𝕧𝕖𝕣𝕚𝕔𝕜 😎",
+      "tier": "B",
+      "team": "DISBAND",
+      "squad": "Hotwheels",
+      "races": 16,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 91.8,
+      "accuracy": 95.73,
+      "perfectAccuracy": 0,
+      "points": 3587
+    }
+  ]
+}

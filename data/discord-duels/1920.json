@@ -1,0 +1,37 @@
+{
+  "id": 1920,
+  "season": "Season 1",
+  "racerCount": 2,
+  "racers": [
+    {
+      "racerId": "387",
+      "userName": "allen",
+      "displayName": "Allen",
+      "tier": "A",
+      "team": "SORC",
+      "squad": "",
+      "races": 33,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 117.4,
+      "accuracy": 99.29,
+      "perfectAccuracy": 8,
+      "points": 10662
+    },
+    {
+      "racerId": "62863",
+      "userName": "tylertiger",
+      "displayName": "𝙏𝙮𝙡𝙚𝙧𝙏𝙞𝙜𝙚𝙧",
+      "tier": "A",
+      "team": "SORC",
+      "squad": "",
+      "races": 80,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 129.2,
+      "accuracy": 97.37,
+      "perfectAccuracy": 1,
+      "points": 24948
+    }
+  ]
+}

@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update-data": "node scripts/update-data.mjs"
+    "update-data": "node scripts/update-data.mjs",
+    "build-discord-data": "node scripts/build-discord-data.mjs"
   },
     "engines": {
     "node": ">=24.17.0"

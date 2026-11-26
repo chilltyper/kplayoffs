@@ -1,0 +1,7010 @@
+{
+  "generatedAt": "2026-11-26T00:56:47.445Z",
+  "playerCount": 345,
+  "players": [
+    {
+      "racerId": "119",
+      "userName": "pinkyone",
+      "displayName": "pinkyone",
+      "totalRaces": 518,
+      "avgWpm": 73.12567567567567,
+      "avgAccuracy": 98.31260617760617,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 74,
+      "avgRacesPerSeason": 259,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "17738",
+      "userName": "speed",
+      "displayName": "speed",
+      "totalRaces": 1796,
+      "avgWpm": 94.70707126948774,
+      "avgAccuracy": 97.64248329621381,
+      "duelsPlayed": 16,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 112.25,
+      "avgRacesPerSeason": 299.3333333333333,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "32571",
+      "userName": "ryan",
+      "displayName": "Ryan",
+      "totalRaces": 250,
+      "avgWpm": 111.4644,
+      "avgAccuracy": 96.19836,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 35.714285714285715,
+      "avgRacesPerSeason": 62.5,
+      "teams": [
+        "MV",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 5",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "33032",
+      "userName": "santiagomb",
+      "displayName": "ladders",
+      "totalRaces": 572,
+      "avgWpm": 135.27080419580417,
+      "avgAccuracy": 96.56912587412587,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 71.5,
+      "avgRacesPerSeason": 286,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "33545",
+      "userName": "cold",
+      "displayName": "xi",
+      "totalRaces": 1514,
+      "avgWpm": 119.94015852047556,
+      "avgAccuracy": 97.41660501981505,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 189.25,
+      "avgRacesPerSeason": 504.6666666666667,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "35906",
+      "userName": "doggoiq",
+      "displayName": "~𝓓𝓸𝓰𝓰𝓸𝓘𝓠🦮~",
+      "totalRaces": 2721,
+      "avgWpm": 109.79176773245132,
+      "avgAccuracy": 96.89338478500552,
+      "duelsPlayed": 22,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 123.68181818181819,
+      "avgRacesPerSeason": 340.125,
+      "teams": [
+        "HOK",
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "37150",
+      "userName": "goldenshyguy",
+      "displayName": "GoldenShyGuy",
+      "totalRaces": 10007,
+      "avgWpm": 96.83908264215047,
+      "avgAccuracy": 99.52290396722294,
+      "duelsPlayed": 20,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 500.35,
+      "avgRacesPerSeason": 1667.8333333333333,
+      "teams": [
+        "HOK",
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "56230",
+      "userName": "type_banned",
+      "displayName": "type",
+      "totalRaces": 969,
+      "avgWpm": 138.85428276573785,
+      "avgAccuracy": 97.81244582043342,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 107.66666666666667,
+      "avgRacesPerSeason": 484.5,
+      "teams": [
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62783",
+      "userName": "soword",
+      "displayName": "soword",
+      "totalRaces": 736,
+      "avgWpm": 152.6961956521739,
+      "avgAccuracy": 98.42660326086956,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 184,
+      "avgRacesPerSeason": 736,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "62917",
+      "userName": "cool",
+      "displayName": "pm",
+      "totalRaces": 224,
+      "avgWpm": 90.32053571428573,
+      "avgAccuracy": 97.24468749999998,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 44.8,
+      "avgRacesPerSeason": 112,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "41000",
+      "userName": "thewritingfox",
+      "displayName": "Fox #100 VEHICLES DESIGNED!!!",
+      "totalRaces": 1073,
+      "avgWpm": 115.63028890959926,
+      "avgAccuracy": 97.59828518173346,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 89.41666666666667,
+      "avgRacesPerSeason": 153.28571428571428,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "53757",
+      "userName": "darkraiboy",
+      "displayName": "◢ ◥ ⟠ мєgαтяση ⟠ ◤ ◣",
+      "totalRaces": 1468,
+      "avgWpm": 78.89019073569483,
+      "avgAccuracy": 94.0250340599455,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 112.92307692307692,
+      "avgRacesPerSeason": 183.5,
+      "teams": [
+        "RYZ",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 2",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "54589",
+      "userName": "little_typing_ghost",
+      "displayName": "Little  Ghost",
+      "totalRaces": 1608,
+      "avgWpm": 124.34228855721393,
+      "avgAccuracy": 97.48661069651742,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 201,
+      "avgRacesPerSeason": 321.6,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62729",
+      "userName": "ncorbital",
+      "displayName": "NCorbital",
+      "totalRaces": 1659,
+      "avgWpm": 65.27968655816757,
+      "avgAccuracy": 98.11938517179023,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 184.33333333333334,
+      "avgRacesPerSeason": 331.8,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "32380",
+      "userName": "loffafm",
+      "displayName": "loffafm",
+      "totalRaces": 3002,
+      "avgWpm": 91.96229180546302,
+      "avgAccuracy": 98.1407495003331,
+      "duelsPlayed": 16,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 187.625,
+      "avgRacesPerSeason": 375.25,
+      "teams": [
+        "STARS",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "40615",
+      "userName": "jay_jacksongh",
+      "displayName": "JayJacksonGH",
+      "totalRaces": 1706,
+      "avgWpm": 98.31735052754983,
+      "avgAccuracy": 99.03878077373975,
+      "duelsPlayed": 20,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 85.3,
+      "avgRacesPerSeason": 243.71428571428572,
+      "teams": [
+        "STARS",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "62739",
+      "userName": "shadow",
+      "displayName": "Shadow",
+      "totalRaces": 940,
+      "avgWpm": 102.13021276595744,
+      "avgAccuracy": 97.18944680851064,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 117.5,
+      "avgRacesPerSeason": 188,
+      "teams": [
+        "DISBAND",
+        "MED13L"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 3",
+        "Season 4",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "3498",
+      "userName": "starlight_bh",
+      "displayName": "𝑺𝒕𝒂𝒓𝒍𝒊𝒈𝒉𝒕✨",
+      "totalRaces": 8441,
+      "avgWpm": 57.80183627532283,
+      "avgAccuracy": 98.26054732851557,
+      "duelsPlayed": 30,
+      "seasonsPlayed": 9,
+      "avgRacesPerDuel": 281.3666666666667,
+      "avgRacesPerSeason": 937.8888888888889,
+      "teams": [
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "18413",
+      "userName": "veimos",
+      "displayName": "Steve Veimos",
+      "totalRaces": 2047,
+      "avgWpm": 97.23590620420127,
+      "avgAccuracy": 97.01642403517343,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 227.44444444444446,
+      "avgRacesPerSeason": 1023.5,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "24137",
+      "userName": "djmaster978746",
+      "displayName": "Vision",
+      "totalRaces": 80,
+      "avgWpm": 65.5,
+      "avgAccuracy": 97.39,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 80,
+      "avgRacesPerSeason": 80,
+      "teams": [
+        "RR"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "28018",
+      "userName": "zuckarias",
+      "displayName": "zuckarias",
+      "totalRaces": 8434,
+      "avgWpm": 87.37510078254685,
+      "avgAccuracy": 99.03972255157697,
+      "duelsPlayed": 35,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 240.97142857142856,
+      "avgRacesPerSeason": 843.4,
+      "teams": [
+        "HOK",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "28839",
+      "userName": "dodge_hornet_2024",
+      "displayName": "ZYN ALREADY WON 💚❤️",
+      "totalRaces": 1028,
+      "avgWpm": 155.95262645914397,
+      "avgAccuracy": 98.14707198443578,
+      "duelsPlayed": 18,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 57.111111111111114,
+      "avgRacesPerSeason": 146.85714285714286,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "29624",
+      "userName": "salamidy",
+      "displayName": "salamidy",
+      "totalRaces": 101,
+      "avgWpm": 85.5,
+      "avgAccuracy": 95.34,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 101,
+      "avgRacesPerSeason": 101,
+      "teams": [
+        "RR"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "62731",
+      "userName": "jeps1",
+      "displayName": "jeps1",
+      "totalRaces": 2526,
+      "avgWpm": 138.31528107680128,
+      "avgAccuracy": 97.80640538400634,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 421,
+      "avgRacesPerSeason": 1263,
+      "teams": [
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62760",
+      "userName": "anurio",
+      "displayName": "🎶 Mario 🎵🏳‍🌈",
+      "totalRaces": 6861,
+      "avgWpm": 132.47006267307972,
+      "avgAccuracy": 98.27605596851772,
+      "duelsPlayed": 27,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 254.11111111111111,
+      "avgRacesPerSeason": 980.1428571428571,
+      "teams": [
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "62780",
+      "userName": "kalalt",
+      "displayName": "Kal ALT 1",
+      "totalRaces": 240,
+      "avgWpm": 105.79333333333334,
+      "avgAccuracy": 95.98025,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 60,
+      "avgRacesPerSeason": 60,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "23866",
+      "userName": "benjamin",
+      "displayName": "𝕸𝔢𝔱𝔢𝔩𝔩𝔲𝔰 𝕮𝔦𝔪𝔟𝔢𝔯",
+      "totalRaces": 551,
+      "avgWpm": 107.07114337568056,
+      "avgAccuracy": 96.51620689655172,
+      "duelsPlayed": 14,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 39.357142857142854,
+      "avgRacesPerSeason": 68.875,
+      "teams": [
+        "DISBAND",
+        "GN",
+        "MASTER",
+        "RYZ",
+        "VYN",
+        "XGR"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "29433",
+      "userName": "superjoelzy",
+      "displayName": "𝕵🏵є𝓵zч",
+      "totalRaces": 1213,
+      "avgWpm": 97.62580379225061,
+      "avgAccuracy": 98.34746084089035,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 173.28571428571428,
+      "avgRacesPerSeason": 242.6,
+      "teams": [
+        "HOK",
+        "KPD1"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 5",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "62857",
+      "userName": "abeldz",
+      "displayName": "SoooooooMuuuuuchSchoooooool",
+      "totalRaces": 1005,
+      "avgWpm": 116.48756218905473,
+      "avgAccuracy": 96.45704477611939,
+      "duelsPlayed": 17,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 59.11764705882353,
+      "avgRacesPerSeason": 100.5,
+      "teams": [
+        "DISBAND",
+        "RYZ"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62930",
+      "userName": "stingray",
+      "displayName": "Stingray",
+      "totalRaces": 259,
+      "avgWpm": 70.05289575289575,
+      "avgAccuracy": 95.18791505791506,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 51.8,
+      "avgRacesPerSeason": 86.33333333333333,
+      "teams": [
+        "DISBAND",
+        "UNREST"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "43",
+      "userName": "nusakan",
+      "displayName": "𝓝𝓾𝓼𝓴",
+      "totalRaces": 8270,
+      "avgWpm": 116.80709794437726,
+      "avgAccuracy": 98.70666747279323,
+      "duelsPlayed": 27,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 306.2962962962963,
+      "avgRacesPerSeason": 827,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "44",
+      "userName": "vytrail",
+      "displayName": "Vytrail",
+      "totalRaces": 5097,
+      "avgWpm": 119.44567392583872,
+      "avgAccuracy": 98.6401157543653,
+      "duelsPlayed": 21,
+      "seasonsPlayed": 9,
+      "avgRacesPerDuel": 242.71428571428572,
+      "avgRacesPerSeason": 566.3333333333334,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "598",
+      "userName": "thedestroyist",
+      "displayName": "☆💙𝓓𝓮𝓼𝓼𝔂💙☆",
+      "totalRaces": 4597,
+      "avgWpm": 119.34159234283229,
+      "avgAccuracy": 98.90502719164672,
+      "duelsPlayed": 23,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 199.8695652173913,
+      "avgRacesPerSeason": 459.7,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "8241",
+      "userName": "lou_ish",
+      "displayName": "--Lou - ish--",
+      "totalRaces": 43,
+      "avgWpm": 96.58372093023257,
+      "avgAccuracy": 96.56511627906977,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 8.6,
+      "avgRacesPerSeason": 14.333333333333334,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "17433",
+      "userName": "type",
+      "displayName": "🇪🇺 𝚃𝚢𝚙𝚎𝚛",
+      "totalRaces": 6341,
+      "avgWpm": 77.70056773379592,
+      "avgAccuracy": 97.6103359091626,
+      "duelsPlayed": 25,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 253.64,
+      "avgRacesPerSeason": 634.1,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "27565",
+      "userName": "riko",
+      "displayName": "Riko",
+      "totalRaces": 3349,
+      "avgWpm": 90.23553299492386,
+      "avgAccuracy": 98.35363093460737,
+      "duelsPlayed": 16,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 209.3125,
+      "avgRacesPerSeason": 478.42857142857144,
+      "teams": [
+        "HOK",
+        "RYZ"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "49407",
+      "userName": "callsignbookworm",
+      "displayName": "₵₳ⱠⱠ₴ł₲₦-฿ØØ₭₩ØⱤ₥",
+      "totalRaces": 3255,
+      "avgWpm": 122.10132104454685,
+      "avgAccuracy": 97.34090629800308,
+      "duelsPlayed": 26,
+      "seasonsPlayed": 10,
+      "avgRacesPerDuel": 125.1923076923077,
+      "avgRacesPerSeason": 325.5,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62781",
+      "userName": "inceraful",
+      "displayName": "incera",
+      "totalRaces": 91,
+      "avgWpm": 75.6054945054945,
+      "avgAccuracy": 97.94010989010988,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 30.333333333333332,
+      "avgRacesPerSeason": 91,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "62785",
+      "userName": "legendz",
+      "displayName": "Sammy (Legendz)",
+      "totalRaces": 66,
+      "avgWpm": 108.17424242424242,
+      "avgAccuracy": 95.01590909090909,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 16.5,
+      "avgRacesPerSeason": 33,
+      "teams": [
+        "HOK",
+        "ME0W"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "21366",
+      "userName": "rmmoth",
+      "displayName": "sleepless paradise",
+      "totalRaces": 1866,
+      "avgWpm": 134.92245444801713,
+      "avgAccuracy": 97.86329046087887,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 143.53846153846155,
+      "avgRacesPerSeason": 266.57142857142856,
+      "teams": [
+        "MV",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "38732",
+      "userName": "parzevalest",
+      "displayName": "P",
+      "totalRaces": 51,
+      "avgWpm": 98.3313725490196,
+      "avgAccuracy": 96.61215686274508,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 25.5,
+      "avgRacesPerSeason": 51,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "49062",
+      "userName": "25tigerboy",
+      "displayName": "aubington",
+      "totalRaces": 130,
+      "avgWpm": 138.68384615384616,
+      "avgAccuracy": 98.35853846153847,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 32.5,
+      "avgRacesPerSeason": 65,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "52915",
+      "userName": "deaner",
+      "displayName": "Deaner",
+      "totalRaces": 4936,
+      "avgWpm": 81.83415721231768,
+      "avgAccuracy": 98.58558346839546,
+      "duelsPlayed": 19,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 259.7894736842105,
+      "avgRacesPerSeason": 705.1428571428571,
+      "teams": [
+        "DISBAND",
+        "MV",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "62812",
+      "userName": "henrik",
+      "displayName": "henrik",
+      "totalRaces": 2076,
+      "avgWpm": 123.30419075144509,
+      "avgAccuracy": 97.49656551059732,
+      "duelsPlayed": 17,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 122.11764705882354,
+      "avgRacesPerSeason": 346,
+      "teams": [
+        "HOK",
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "54590",
+      "userName": "mcracer10",
+      "displayName": "the_way_of_life signing off",
+      "totalRaces": 1350,
+      "avgWpm": 87.8545925925926,
+      "avgAccuracy": 95.87468148148147,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 225,
+      "avgRacesPerSeason": 337.5,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 3",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62733",
+      "userName": "thegamer",
+      "displayName": "The Gamer",
+      "totalRaces": 276,
+      "avgWpm": 44.37463768115942,
+      "avgAccuracy": 98.00253623188406,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 69,
+      "avgRacesPerSeason": 92,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "25522",
+      "userName": "augman",
+      "displayName": "Augman",
+      "totalRaces": 2466,
+      "avgWpm": 124.74598540145986,
+      "avgAccuracy": 98.00870235198703,
+      "duelsPlayed": 18,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 137,
+      "avgRacesPerSeason": 308.25,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "41655",
+      "userName": "100percentrealhuman",
+      "displayName": "✨Kal-Sleeping✨",
+      "totalRaces": 2278,
+      "avgWpm": 106.98349429323969,
+      "avgAccuracy": 95.81533801580335,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 175.23076923076923,
+      "avgRacesPerSeason": 284.75,
+      "teams": [
+        "DISBAND",
+        "RL1",
+        "STRS"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62722",
+      "userName": "b7p0",
+      "displayName": "Satan Letting Me Down",
+      "totalRaces": 1050,
+      "avgWpm": 131.7775238095238,
+      "avgAccuracy": 97.03278095238095,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 175,
+      "avgRacesPerSeason": 525,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "62730",
+      "userName": "_ms_",
+      "displayName": "_ms_",
+      "totalRaces": 626,
+      "avgWpm": 90.63083067092651,
+      "avgAccuracy": 93.52421725239617,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 78.25,
+      "avgRacesPerSeason": 104.33333333333333,
+      "teams": [
+        "DISBAND",
+        "STRS"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "62750",
+      "userName": "collot",
+      "displayName": "collot",
+      "totalRaces": 211,
+      "avgWpm": 83.71042654028437,
+      "avgAccuracy": 96.54052132701422,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 70.33333333333333,
+      "avgRacesPerSeason": 211,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "62767",
+      "userName": "guappanese",
+      "displayName": "fire",
+      "totalRaces": 5330,
+      "avgWpm": 153.44311444652908,
+      "avgAccuracy": 98.03350844277674,
+      "duelsPlayed": 23,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 231.7391304347826,
+      "avgRacesPerSeason": 666.25,
+      "teams": [
+        "MV",
+        "RL1",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62792",
+      "userName": "froglover47",
+      "displayName": "Froglover47",
+      "totalRaces": 323,
+      "avgWpm": 141.57523219814243,
+      "avgAccuracy": 97.75139318885448,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 107.66666666666667,
+      "avgRacesPerSeason": 161.5,
+      "teams": [
+        "GN",
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "62946",
+      "userName": "mr_benz",
+      "displayName": "mr_benz",
+      "totalRaces": 4,
+      "avgWpm": 98.5,
+      "avgAccuracy": 96.35,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 4,
+      "avgRacesPerSeason": 4,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "25070",
+      "userName": "m1n0rity",
+      "displayName": "M1n0riTy",
+      "totalRaces": 12,
+      "avgWpm": 78.26666666666667,
+      "avgAccuracy": 97.75333333333333,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 6,
+      "avgRacesPerSeason": 12,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "28940",
+      "userName": "fragment",
+      "displayName": "kyle",
+      "totalRaces": 8325,
+      "avgWpm": 139.25018618618617,
+      "avgAccuracy": 98.79236276276276,
+      "duelsPlayed": 28,
+      "seasonsPlayed": 9,
+      "avgRacesPerDuel": 297.32142857142856,
+      "avgRacesPerSeason": 925,
+      "teams": [
+        "MV",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "3643",
+      "userName": "frostbytent",
+      "displayName": "frostbytent",
+      "totalRaces": 35,
+      "avgWpm": 113.3,
+      "avgAccuracy": 95.36,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 35,
+      "avgRacesPerSeason": 35,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "21808",
+      "userName": "kift",
+      "displayName": "Kift",
+      "totalRaces": 1424,
+      "avgWpm": 143.77816011235956,
+      "avgAccuracy": 98.42851123595507,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 284.8,
+      "avgRacesPerSeason": 474.6666666666667,
+      "teams": [
+        "HOK",
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "62759",
+      "userName": "xion",
+      "displayName": "v",
+      "totalRaces": 314,
+      "avgWpm": 56.99808917197451,
+      "avgAccuracy": 98.39054140127388,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 104.66666666666667,
+      "avgRacesPerSeason": 157,
+      "teams": [
+        "GN",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "62864",
+      "userName": "precision558",
+      "displayName": "Virtuous",
+      "totalRaces": 1,
+      "avgWpm": 113.9,
+      "avgAccuracy": 98.18,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "26805",
+      "userName": "agent_101_new",
+      "displayName": "Stinger",
+      "totalRaces": 10,
+      "avgWpm": 104.8,
+      "avgAccuracy": 97.73,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 10,
+      "avgRacesPerSeason": 10,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "27656",
+      "userName": "spookypotato",
+      "displayName": "spookypotato",
+      "totalRaces": 82,
+      "avgWpm": 106.67073170731707,
+      "avgAccuracy": 94.40634146341463,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 41,
+      "avgRacesPerSeason": 41,
+      "teams": [
+        "DISBAND",
+        "VYN"
+      ],
+      "seasons": [
+        "Alpha",
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "62744",
+      "userName": "l8rval",
+      "displayName": "val",
+      "totalRaces": 48,
+      "avgWpm": 112.09999999999998,
+      "avgAccuracy": 95.49,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 48,
+      "avgRacesPerSeason": 48,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "62962",
+      "userName": "jesus_klavia",
+      "displayName": "jesus_klavia",
+      "totalRaces": 19,
+      "avgWpm": 63.6,
+      "avgAccuracy": 98.58,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 19,
+      "avgRacesPerSeason": 19,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Alpha"
+      ]
+    },
+    {
+      "racerId": "19769",
+      "userName": "revali01",
+      "displayName": "Revali01",
+      "totalRaces": 610,
+      "avgWpm": 90.22868852459017,
+      "avgAccuracy": 97.8554918032787,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 46.92307692307692,
+      "avgRacesPerSeason": 152.5,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "62969",
+      "userName": "hugo",
+      "displayName": "𝖍𝖚𝖌𝖔",
+      "totalRaces": 3803,
+      "avgWpm": 117.84846174073097,
+      "avgAccuracy": 97.13871680252433,
+      "duelsPlayed": 25,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 152.12,
+      "avgRacesPerSeason": 543.2857142857143,
+      "teams": [
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62984",
+      "userName": "donovan",
+      "displayName": "Donovan",
+      "totalRaces": 4173,
+      "avgWpm": 84.64011502516176,
+      "avgAccuracy": 98.92813563383656,
+      "duelsPlayed": 21,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 198.71428571428572,
+      "avgRacesPerSeason": 596.1428571428571,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63003",
+      "userName": "chris1214",
+      "displayName": "⋆⋆ 🎀 𝒞𝒞 🎀 ⋆⋆",
+      "totalRaces": 156,
+      "avgWpm": 136.85897435897436,
+      "avgAccuracy": 96.39923076923075,
+      "duelsPlayed": 10,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 15.6,
+      "avgRacesPerSeason": 26,
+      "teams": [
+        "HOK",
+        "MASTER",
+        "TD",
+        "VYN",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63196",
+      "userName": "swervin_like_whoa",
+      "displayName": "SwervinLikeWhoa",
+      "totalRaces": 4958,
+      "avgWpm": 77.65522388059702,
+      "avgAccuracy": 98.11967930617185,
+      "duelsPlayed": 23,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 215.56521739130434,
+      "avgRacesPerSeason": 708.2857142857143,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63198",
+      "userName": "truly_broken",
+      "displayName": "Broken",
+      "totalRaces": 1546,
+      "avgWpm": 75.44605433376455,
+      "avgAccuracy": 97.47538809831825,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 220.85714285714286,
+      "avgRacesPerSeason": 773,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63677",
+      "userName": "dauntlessdragon",
+      "displayName": "Dragon",
+      "totalRaces": 1421,
+      "avgWpm": 106.66579873328641,
+      "avgAccuracy": 96.17379310344828,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 109.3076923076923,
+      "avgRacesPerSeason": 236.83333333333334,
+      "teams": [
+        "HOK",
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63237",
+      "userName": "maniac_kobalt",
+      "displayName": "⭐𝙈𝙖𝙣𝙞𝙖𝙘_𝙆𝙤𝙗𝙖𝙡𝙩⭐",
+      "totalRaces": 625,
+      "avgWpm": 119.38928,
+      "avgAccuracy": 96.766912,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 52.083333333333336,
+      "avgRacesPerSeason": 78.125,
+      "teams": [
+        "DISBAND",
+        "RYZ",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63336",
+      "userName": "simonm",
+      "displayName": "𝕄𝕒𝕧𝕖𝕣𝕚𝕔𝕜 😎",
+      "totalRaces": 529,
+      "avgWpm": 102.64423440453687,
+      "avgAccuracy": 96.96703213610587,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 40.69230769230769,
+      "avgRacesPerSeason": 66.125,
+      "teams": [
+        "DISBAND",
+        "RYZ",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62935",
+      "userName": "soul",
+      "displayName": "tragedy",
+      "totalRaces": 2312,
+      "avgWpm": 99.93019031141868,
+      "avgAccuracy": 97.12651816608995,
+      "duelsPlayed": 18,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 128.44444444444446,
+      "avgRacesPerSeason": 330.2857142857143,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62824",
+      "userName": "argronaut",
+      "displayName": "Argron",
+      "totalRaces": 103,
+      "avgWpm": 65.73203883495145,
+      "avgAccuracy": 97.23466019417478,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 25.75,
+      "avgRacesPerSeason": 34.333333333333336,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63285",
+      "userName": "nivag",
+      "displayName": "nivag",
+      "totalRaces": 5,
+      "avgWpm": 71.7,
+      "avgAccuracy": 97.01,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 5,
+      "avgRacesPerSeason": 5,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63426",
+      "userName": "foolsguld",
+      "displayName": "FoolsGuld - RIP Unrest",
+      "totalRaces": 434,
+      "avgWpm": 105.86267281105991,
+      "avgAccuracy": 96.68774193548388,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 108.5,
+      "avgRacesPerSeason": 144.66666666666666,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63517",
+      "userName": "ayearous",
+      "displayName": "ayearous",
+      "totalRaces": 7,
+      "avgWpm": 47,
+      "avgAccuracy": 98.62,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 7,
+      "avgRacesPerSeason": 7,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63519",
+      "userName": "lifetime_lifeweaver",
+      "displayName": "lifetime_lifeweaver",
+      "totalRaces": 29,
+      "avgWpm": 50.9,
+      "avgAccuracy": 95.83000000000001,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 29,
+      "avgRacesPerSeason": 29,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63533",
+      "userName": "bryann",
+      "displayName": "bryann",
+      "totalRaces": 16,
+      "avgWpm": 75.3,
+      "avgAccuracy": 95.36,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 16,
+      "avgRacesPerSeason": 16,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63545",
+      "userName": "e_c_h_o",
+      "displayName": "e_c_h_o",
+      "totalRaces": 193,
+      "avgWpm": 58.86787564766839,
+      "avgAccuracy": 96.89647668393785,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 64.33333333333333,
+      "avgRacesPerSeason": 64.33333333333333,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63587",
+      "userName": "satteluc000",
+      "displayName": "I won",
+      "totalRaces": 53,
+      "avgWpm": 56.6,
+      "avgAccuracy": 95.53999999999999,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 53,
+      "avgRacesPerSeason": 53,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "19573",
+      "userName": "suthe8",
+      "displayName": "🔥βᒪ𝐚𝓩Ɨ𝐍𝕘βƗᒪᒪ𝔂🔥Got theRosyNutty",
+      "totalRaces": 1965,
+      "avgWpm": 96.02483460559795,
+      "avgAccuracy": 98.02474300254453,
+      "duelsPlayed": 14,
+      "seasonsPlayed": 9,
+      "avgRacesPerDuel": 140.35714285714286,
+      "avgRacesPerSeason": 218.33333333333334,
+      "teams": [
+        "CHAOS",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62936",
+      "userName": "squeakyviolinist",
+      "displayName": "Charlie",
+      "totalRaces": 1679,
+      "avgWpm": 93.98725431804645,
+      "avgAccuracy": 98.19901131625967,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 139.91666666666666,
+      "avgRacesPerSeason": 239.85714285714286,
+      "teams": [
+        "CHAOS",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63132",
+      "userName": "clowny6",
+      "displayName": "clowny6",
+      "totalRaces": 230,
+      "avgWpm": 27.05913043478261,
+      "avgAccuracy": 91.751,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 32.857142857142854,
+      "avgRacesPerSeason": 57.5,
+      "teams": [
+        "CHAOS",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 4",
+        "Season 5",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63498",
+      "userName": "monkey8",
+      "displayName": "monkey8",
+      "totalRaces": 235,
+      "avgWpm": 33.43446808510638,
+      "avgAccuracy": 98.16608510638298,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 78.33333333333333,
+      "avgRacesPerSeason": 235,
+      "teams": [
+        "CHAOS"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62983",
+      "userName": "froggy",
+      "displayName": "𝓯𝓻𝓸𝓰𝓰𝔂 30k!!!!!",
+      "totalRaces": 2387,
+      "avgWpm": 78.09878508588187,
+      "avgAccuracy": 96.54432341851697,
+      "duelsPlayed": 15,
+      "seasonsPlayed": 9,
+      "avgRacesPerDuel": 159.13333333333333,
+      "avgRacesPerSeason": 265.22222222222223,
+      "teams": [
+        "DISBAND",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62987",
+      "userName": "ta_1234567",
+      "displayName": "TA_1234567",
+      "totalRaces": 98,
+      "avgWpm": 103.36530612244897,
+      "avgAccuracy": 96.78173469387754,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 14,
+      "avgRacesPerSeason": 32.666666666666664,
+      "teams": [
+        "DISBAND",
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63603",
+      "userName": "retiredracer",
+      "displayName": "calhoun",
+      "totalRaces": 58,
+      "avgWpm": 88.4,
+      "avgAccuracy": 89.26,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 58,
+      "avgRacesPerSeason": 58,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63636",
+      "userName": "ferret_typing",
+      "displayName": "ferret_typing",
+      "totalRaces": 326,
+      "avgWpm": 96.90061349693251,
+      "avgAccuracy": 98.17196319018406,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 40.75,
+      "avgRacesPerSeason": 81.5,
+      "teams": [
+        "DISBAND",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63637",
+      "userName": "ravian",
+      "displayName": "Ventura",
+      "totalRaces": 85,
+      "avgWpm": 67.58,
+      "avgAccuracy": 95.51811764705883,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 28.333333333333332,
+      "avgRacesPerSeason": 85,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "28509",
+      "userName": "x_onion_x",
+      "displayName": "Onion",
+      "totalRaces": 136,
+      "avgWpm": 152.59117647058824,
+      "avgAccuracy": 98.48323529411765,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 45.333333333333336,
+      "avgRacesPerSeason": 136,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "52967",
+      "userName": "arctic",
+      "displayName": "𝔸𝕣𝕔𝕋𝕚ℂ𝕥𝔸𝕔𝕋𝕠𝕖🐻‍❄",
+      "totalRaces": 3687,
+      "avgWpm": 117.16322213181448,
+      "avgAccuracy": 99.00336859235148,
+      "duelsPlayed": 21,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 175.57142857142858,
+      "avgRacesPerSeason": 460.875,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62771",
+      "userName": "zephyr",
+      "displayName": "zᥱfყr",
+      "totalRaces": 3424,
+      "avgWpm": 100.56194509345794,
+      "avgAccuracy": 97.40417640186915,
+      "duelsPlayed": 10,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 342.4,
+      "avgRacesPerSeason": 570.6666666666666,
+      "teams": [
+        "RKL",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63437",
+      "userName": "thechosenone",
+      "displayName": "Thing 1",
+      "totalRaces": 1610,
+      "avgWpm": 86.65608695652173,
+      "avgAccuracy": 93.60590062111801,
+      "duelsPlayed": 11,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 146.36363636363637,
+      "avgRacesPerSeason": 230,
+      "teams": [
+        "GN",
+        "HOK",
+        "RYZ",
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62958",
+      "userName": "miner24niner",
+      "displayName": "TypingMaster1",
+      "totalRaces": 145,
+      "avgWpm": 117.8,
+      "avgAccuracy": 96.23,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 145,
+      "avgRacesPerSeason": 145,
+      "teams": [
+        "TMS2"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63564",
+      "userName": "nitrochill",
+      "displayName": "chill",
+      "totalRaces": 6854,
+      "avgWpm": 137.4413772979282,
+      "avgAccuracy": 97.54032973446164,
+      "duelsPlayed": 16,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 428.375,
+      "avgRacesPerSeason": 979.1428571428571,
+      "teams": [
+        "DISBAND",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63682",
+      "userName": "ncxyt",
+      "displayName": "unrest",
+      "totalRaces": 397,
+      "avgWpm": 129.3743073047859,
+      "avgAccuracy": 97.33261964735517,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 99.25,
+      "avgRacesPerSeason": 198.5,
+      "teams": [
+        "DISBAND",
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "62965",
+      "userName": "uselesssaber",
+      "displayName": "uselesssaber",
+      "totalRaces": 1119,
+      "avgWpm": 86.65862377122431,
+      "avgAccuracy": 99.24689008042895,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 186.5,
+      "avgRacesPerSeason": 559.5,
+      "teams": [
+        "STARS"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "26027",
+      "userName": "captainloveridge",
+      "displayName": "Captain.Loveridge",
+      "totalRaces": 16,
+      "avgWpm": 98.4,
+      "avgAccuracy": 97.36,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 16,
+      "avgRacesPerSeason": 16,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "26030",
+      "userName": "cosmo",
+      "displayName": "Cosmo08",
+      "totalRaces": 20,
+      "avgWpm": 61.4,
+      "avgAccuracy": 94.26,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 20,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "37097",
+      "userName": "ecreif",
+      "displayName": "ecrei -",
+      "totalRaces": 22,
+      "avgWpm": 84.8,
+      "avgAccuracy": 97.3,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 22,
+      "avgRacesPerSeason": 22,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62735",
+      "userName": "bigmelody",
+      "displayName": "Into The Sun",
+      "totalRaces": 239,
+      "avgWpm": 96.5702928870293,
+      "avgAccuracy": 99.0412970711297,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 47.8,
+      "avgRacesPerSeason": 59.75,
+      "teams": [
+        "ASTRO",
+        "HOK",
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "62855",
+      "userName": "bobby",
+      "displayName": "bobby",
+      "totalRaces": 15,
+      "avgWpm": 112.8,
+      "avgAccuracy": 97.78,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 15,
+      "avgRacesPerSeason": 15,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62995",
+      "userName": "c96cyrix",
+      "displayName": "c96cyrix",
+      "totalRaces": 276,
+      "avgWpm": 135.11485507246377,
+      "avgAccuracy": 97.82601449275363,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 55.2,
+      "avgRacesPerSeason": 69,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63571",
+      "userName": "1xe4",
+      "displayName": "Lotus -FL Hiring contact me",
+      "totalRaces": 479,
+      "avgWpm": 110.46576200417537,
+      "avgAccuracy": 97.23390396659708,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 68.42857142857143,
+      "avgRacesPerSeason": 95.8,
+      "teams": [
+        "FL",
+        "RL1",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 5",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63605",
+      "userName": "typelas400",
+      "displayName": "typelas400",
+      "totalRaces": 20,
+      "avgWpm": 110.5,
+      "avgAccuracy": 95.64,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 20,
+      "teams": [
+        "KPD1"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "387",
+      "userName": "allen",
+      "displayName": "Allen",
+      "totalRaces": 33,
+      "avgWpm": 117.4,
+      "avgAccuracy": 99.29,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 33,
+      "avgRacesPerSeason": 33,
+      "teams": [
+        "SORC"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62863",
+      "userName": "tylertiger",
+      "displayName": "𝙏𝙮𝙡𝙚𝙧𝙏𝙞𝙜𝙚𝙧",
+      "totalRaces": 1058,
+      "avgWpm": 139.63695652173914,
+      "avgAccuracy": 97.48702268431002,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 211.6,
+      "avgRacesPerSeason": 264.5,
+      "teams": [
+        "ME0W",
+        "SORC"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 4",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62919",
+      "userName": "nbvzdxchhc",
+      "displayName": "You Have No Heart",
+      "totalRaces": 1776,
+      "avgWpm": 142.93451576576578,
+      "avgAccuracy": 95.38594594594593,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 253.71428571428572,
+      "avgRacesPerSeason": 592,
+      "teams": [
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "63459",
+      "userName": "termitesarecool",
+      "displayName": "1999",
+      "totalRaces": 1166,
+      "avgWpm": 128.73876500857634,
+      "avgAccuracy": 96.89657804459691,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 194.33333333333334,
+      "avgRacesPerSeason": 583,
+      "teams": [
+        "MV",
+        "RL1"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63672",
+      "userName": "randorandy",
+      "displayName": "randorandy",
+      "totalRaces": 190,
+      "avgWpm": 60.61368421052631,
+      "avgAccuracy": 92.2938947368421,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 95,
+      "avgRacesPerSeason": 190,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63673",
+      "userName": "sinistersnail42",
+      "displayName": "sinistersnail42",
+      "totalRaces": 2704,
+      "avgWpm": 88.32011834319526,
+      "avgAccuracy": 95.09750000000001,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 386.2857142857143,
+      "avgRacesPerSeason": 1352,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63316",
+      "userName": "girlofbooks3",
+      "displayName": "Book Girl-still too fast",
+      "totalRaces": 2498,
+      "avgWpm": 136.8915132105685,
+      "avgAccuracy": 94.42157325860691,
+      "duelsPlayed": 11,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 227.0909090909091,
+      "avgRacesPerSeason": 356.85714285714283,
+      "teams": [
+        "RYZ",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62966",
+      "userName": "ice_cream",
+      "displayName": "IceCream",
+      "totalRaces": 18,
+      "avgWpm": 75.73333333333332,
+      "avgAccuracy": 97.72555555555556,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 6,
+      "avgRacesPerSeason": 9,
+      "teams": [
+        "RYZ",
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63151",
+      "userName": "squishy_watermellon",
+      "displayName": "Intigration",
+      "totalRaces": 20,
+      "avgWpm": 69.1,
+      "avgAccuracy": 95.7,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 20,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63486",
+      "userName": "very",
+      "displayName": "Tranquility",
+      "totalRaces": 1,
+      "avgWpm": 71.1,
+      "avgAccuracy": 93.67,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63630",
+      "userName": "rynster",
+      "displayName": "rynster",
+      "totalRaces": 41,
+      "avgWpm": 93.02439024390245,
+      "avgAccuracy": 98.47365853658536,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20.5,
+      "avgRacesPerSeason": 41,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "62818",
+      "userName": "trpquo",
+      "displayName": "🥒𝔱𝔯𝔭𝔮𝔲𝔬🪼 #𝔹𝕆ℕ𝕂BONK𝔹𝕆ℕ𝕂BONK...",
+      "totalRaces": 1604,
+      "avgWpm": 73.08092269326683,
+      "avgAccuracy": 97.90152743142146,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 200.5,
+      "avgRacesPerSeason": 320.8,
+      "teams": [
+        "DISBAND",
+        "RL1",
+        "SMASHO",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 3",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62826",
+      "userName": "serendipity",
+      "displayName": "𝒮𝑒𝓇𝑒𝓃𝒹𝒾𝓅𝒾𝓉𝓎",
+      "totalRaces": 1669,
+      "avgWpm": 86.12510485320553,
+      "avgAccuracy": 99.2501378070701,
+      "duelsPlayed": 10,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 166.9,
+      "avgRacesPerSeason": 278.1666666666667,
+      "teams": [
+        "DISBAND",
+        "HOK",
+        "RL1"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63464",
+      "userName": "fast",
+      "displayName": "BACK????? bg",
+      "totalRaces": 289,
+      "avgWpm": 61.1159169550173,
+      "avgAccuracy": 96.71667820069204,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 96.33333333333333,
+      "avgRacesPerSeason": 144.5,
+      "teams": [
+        "DISBAND",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "62833",
+      "userName": "fireflash2025k",
+      "displayName": "FireFlash",
+      "totalRaces": 231,
+      "avgWpm": 78.1965367965368,
+      "avgAccuracy": 96.3703896103896,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 57.75,
+      "avgRacesPerSeason": 77,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "62916",
+      "userName": "dvorak",
+      "displayName": "TensorFlow - Dvorak",
+      "totalRaces": 56,
+      "avgWpm": 119.5,
+      "avgAccuracy": 98.07000000000001,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 56,
+      "avgRacesPerSeason": 56,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63427",
+      "userName": "romantic",
+      "displayName": "Romance",
+      "totalRaces": 92,
+      "avgWpm": 97.02934782608696,
+      "avgAccuracy": 94.54576086956521,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 30.666666666666668,
+      "avgRacesPerSeason": 92,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63181",
+      "userName": "blazinlarry",
+      "displayName": "blazinlarry",
+      "totalRaces": 2,
+      "avgWpm": 31.900000000000002,
+      "avgAccuracy": 99.36500000000001,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "CHAOS"
+      ],
+      "seasons": [
+        "Season 1",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "40829",
+      "userName": "dbplol",
+      "displayName": "dbp loves klavia",
+      "totalRaces": 94,
+      "avgWpm": 99.5468085106383,
+      "avgAccuracy": 96.68382978723405,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 47,
+      "avgRacesPerSeason": 94,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63068",
+      "userName": "jediah",
+      "displayName": "jediah",
+      "totalRaces": 3,
+      "avgWpm": 112,
+      "avgAccuracy": 97.28000000000002,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1.5,
+      "avgRacesPerSeason": 3,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63606",
+      "userName": "pure",
+      "displayName": "pure",
+      "totalRaces": 1,
+      "avgWpm": 114.3,
+      "avgAccuracy": 92.41,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 1"
+      ]
+    },
+    {
+      "racerId": "63775",
+      "userName": "drowos",
+      "displayName": "veloword",
+      "totalRaces": 1934,
+      "avgWpm": 114.30392967942089,
+      "avgAccuracy": 99.0857032057911,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 386.8,
+      "avgRacesPerSeason": 967,
+      "teams": [
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70525",
+      "userName": "_shadow_",
+      "displayName": "Shadow",
+      "totalRaces": 2331,
+      "avgWpm": 100.48807378807378,
+      "avgAccuracy": 99.00200343200345,
+      "duelsPlayed": 18,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 129.5,
+      "avgRacesPerSeason": 388.5,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70542",
+      "userName": "jishnu",
+      "displayName": "jishnu_busy_highschool",
+      "totalRaces": 120,
+      "avgWpm": 47.704166666666666,
+      "avgAccuracy": 97.30033333333334,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 40,
+      "teams": [
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "70556",
+      "userName": "reach",
+      "displayName": "Reach",
+      "totalRaces": 958,
+      "avgWpm": 112.39248434237996,
+      "avgAccuracy": 97.55138830897702,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 191.6,
+      "avgRacesPerSeason": 479,
+      "teams": [
+        "DISBAND",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70653",
+      "userName": "accipitroid",
+      "displayName": "Woodrow Caldera",
+      "totalRaces": 20,
+      "avgWpm": 100.9,
+      "avgAccuracy": 97.06,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 20,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63277",
+      "userName": "princewarriorlol",
+      "displayName": "𝓹𝓻𝓲𝓷𝓬𝓮 𓆝",
+      "totalRaces": 887,
+      "avgWpm": 133.80665163472378,
+      "avgAccuracy": 96.92165727170237,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 110.875,
+      "avgRacesPerSeason": 177.4,
+      "teams": [
+        "GN",
+        "HOK",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63664",
+      "userName": "afk_typist",
+      "displayName": "afk - dngr boy",
+      "totalRaces": 573,
+      "avgWpm": 134.71448516579406,
+      "avgAccuracy": 98.29460732984293,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 191,
+      "avgRacesPerSeason": 286.5,
+      "teams": [
+        "MED13L",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63689",
+      "userName": "guardofjustice",
+      "displayName": "Zenith Revival",
+      "totalRaces": 143,
+      "avgWpm": 118.9,
+      "avgAccuracy": 98.15,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 47.666666666666664,
+      "avgRacesPerSeason": 71.5,
+      "teams": [
+        "UNREST",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63693",
+      "userName": "ror3sea",
+      "displayName": "Ror3sea",
+      "totalRaces": 1,
+      "avgWpm": 74.1,
+      "avgAccuracy": 97.88,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63711",
+      "userName": "ethancompetesandbeats",
+      "displayName": "CafeConLeche",
+      "totalRaces": 79,
+      "avgWpm": 73.08987341772152,
+      "avgAccuracy": 96.26151898734179,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 26.333333333333332,
+      "avgRacesPerSeason": 39.5,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63826",
+      "userName": "pizza",
+      "displayName": "snowfall",
+      "totalRaces": 945,
+      "avgWpm": 106.13820105820106,
+      "avgAccuracy": 98.32892063492064,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 236.25,
+      "avgRacesPerSeason": 315,
+      "teams": [
+        "GN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70438",
+      "userName": "corvetteheat2",
+      "displayName": "Heatwave",
+      "totalRaces": 358,
+      "avgWpm": 78.64078212290504,
+      "avgAccuracy": 95.9917877094972,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 119.33333333333333,
+      "avgRacesPerSeason": 179,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70440",
+      "userName": "helpontheway",
+      "displayName": "Help on the Way 🚑",
+      "totalRaces": 1156,
+      "avgWpm": 102.88140138408303,
+      "avgAccuracy": 98.53340830449827,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 96.33333333333333,
+      "avgRacesPerSeason": 192.66666666666666,
+      "teams": [
+        "HOK",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "70544",
+      "userName": "ivandraco",
+      "displayName": "ivandraco",
+      "totalRaces": 11,
+      "avgWpm": 70.3,
+      "avgAccuracy": 96.41,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 11,
+      "avgRacesPerSeason": 11,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70589",
+      "userName": "everbloom",
+      "displayName": "everbloom",
+      "totalRaces": 653,
+      "avgWpm": 65.3,
+      "avgAccuracy": 97.38,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 653,
+      "avgRacesPerSeason": 653,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70614",
+      "userName": "nitro",
+      "displayName": "mNitrowwc",
+      "totalRaces": 12,
+      "avgWpm": 52,
+      "avgAccuracy": 94.06,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 12,
+      "avgRacesPerSeason": 12,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70648",
+      "userName": "papergetter",
+      "displayName": "--",
+      "totalRaces": 486,
+      "avgWpm": 62.8022633744856,
+      "avgAccuracy": 99.2916255144033,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 243,
+      "avgRacesPerSeason": 486,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63854",
+      "userName": "futureneuromillion",
+      "displayName": "𖣂Neuro𖣂 #REACHZENITH",
+      "totalRaces": 2861,
+      "avgWpm": 98.89091226843762,
+      "avgAccuracy": 97.91259699405802,
+      "duelsPlayed": 14,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 204.35714285714286,
+      "avgRacesPerSeason": 476.8333333333333,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70545",
+      "userName": "eminem",
+      "displayName": "Next Season Winner",
+      "totalRaces": 546,
+      "avgWpm": 128.24908424908426,
+      "avgAccuracy": 97.25194139194139,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 78,
+      "avgRacesPerSeason": 182,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "70615",
+      "userName": "kithrills",
+      "displayName": "kithrills",
+      "totalRaces": 13,
+      "avgWpm": 91.26923076923077,
+      "avgAccuracy": 95.25615384615386,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 6.5,
+      "avgRacesPerSeason": 13,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70642",
+      "userName": "fire",
+      "displayName": "ghoul",
+      "totalRaces": 7,
+      "avgWpm": 98.8,
+      "avgAccuracy": 99.82000000000001,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 7,
+      "avgRacesPerSeason": 7,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63480",
+      "userName": "midnights_might",
+      "displayName": "Midnights Might",
+      "totalRaces": 92,
+      "avgWpm": 75.82173913043478,
+      "avgAccuracy": 98.56467391304349,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 30.666666666666668,
+      "avgRacesPerSeason": 46,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70610",
+      "userName": "nonstop_laptop",
+      "displayName": "nonstop_laptop",
+      "totalRaces": 75,
+      "avgWpm": 38.8,
+      "avgAccuracy": 98.95413333333333,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 37.5,
+      "avgRacesPerSeason": 37.5,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "62967",
+      "userName": "fury",
+      "displayName": "FURIOUS_PRIME",
+      "totalRaces": 384,
+      "avgWpm": 56.08776041666667,
+      "avgAccuracy": 95.934375,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 48,
+      "avgRacesPerSeason": 76.8,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63395",
+      "userName": "silverleopard",
+      "displayName": "silverleopard",
+      "totalRaces": 3,
+      "avgWpm": 127.09999999999998,
+      "avgAccuracy": 98.21999999999998,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 3,
+      "avgRacesPerSeason": 3,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63817",
+      "userName": "slycookie7575",
+      "displayName": "Sly",
+      "totalRaces": 39,
+      "avgWpm": 94.51025641025642,
+      "avgAccuracy": 96.67589743589744,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 13,
+      "avgRacesPerSeason": 19.5,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "70580",
+      "userName": "aphrodite",
+      "displayName": "Aphrodite",
+      "totalRaces": 593,
+      "avgWpm": 119.20758853288363,
+      "avgAccuracy": 99.80537942664418,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 296.5,
+      "avgRacesPerSeason": 593,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70600",
+      "userName": "liteye",
+      "displayName": "liteye",
+      "totalRaces": 41,
+      "avgWpm": 100.97317073170731,
+      "avgAccuracy": 97.7990243902439,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 13.666666666666666,
+      "avgRacesPerSeason": 20.5,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "56869",
+      "userName": "typing_kitty_17",
+      "displayName": "-Typing_Kitty- YT",
+      "totalRaces": 99,
+      "avgWpm": 67.2,
+      "avgAccuracy": 95.16,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 99,
+      "avgRacesPerSeason": 99,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63095",
+      "userName": "drizzy",
+      "displayName": "Kairos ⁶𓅓",
+      "totalRaces": 1900,
+      "avgWpm": 73.9448947368421,
+      "avgAccuracy": 96.8384052631579,
+      "duelsPlayed": 15,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 126.66666666666667,
+      "avgRacesPerSeason": 271.42857142857144,
+      "teams": [
+        "DISBAND",
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63844",
+      "userName": "grassrootfire99",
+      "displayName": "TicTac",
+      "totalRaces": 173,
+      "avgWpm": 110.73872832369943,
+      "avgAccuracy": 97.62231213872832,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 57.666666666666664,
+      "avgRacesPerSeason": 86.5,
+      "teams": [
+        "FL"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "48830",
+      "userName": "ppnugget1234",
+      "displayName": "ChickenNUGG",
+      "totalRaces": 56,
+      "avgWpm": 104.39821428571429,
+      "avgAccuracy": 98.96785714285714,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 18.666666666666668,
+      "avgRacesPerSeason": 56,
+      "teams": [
+        "ASTRO"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63041",
+      "userName": "cyberchicken",
+      "displayName": "CyberChicken",
+      "totalRaces": 60,
+      "avgWpm": 69.16666666666667,
+      "avgAccuracy": 99.69,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 60,
+      "teams": [
+        "ASTRO"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70429",
+      "userName": "bigmelodyalt",
+      "displayName": "Big_Alt_Melody",
+      "totalRaces": 90,
+      "avgWpm": 65.15555555555555,
+      "avgAccuracy": 99.80666666666667,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 30,
+      "avgRacesPerSeason": 90,
+      "teams": [
+        "ASTRO"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63268",
+      "userName": "the_beast",
+      "displayName": "SuperJoelzy",
+      "totalRaces": 723,
+      "avgWpm": 78.60069156293223,
+      "avgAccuracy": 99.17796680497925,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 241,
+      "avgRacesPerSeason": 361.5,
+      "teams": [
+        "ASTRO",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "53073",
+      "userName": "rivian",
+      "displayName": "Rivian is semi retired? idk",
+      "totalRaces": 323,
+      "avgWpm": 111.74613003095975,
+      "avgAccuracy": 97.01482972136223,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 46.142857142857146,
+      "avgRacesPerSeason": 80.75,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "55806",
+      "userName": "viper_47",
+      "displayName": "𝖄𝖔𝖉𝖆",
+      "totalRaces": 4237,
+      "avgWpm": 112.07410903941468,
+      "avgAccuracy": 97.13827000236016,
+      "duelsPlayed": 19,
+      "seasonsPlayed": 8,
+      "avgRacesPerDuel": 223,
+      "avgRacesPerSeason": 529.625,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62873",
+      "userName": "mosesman24",
+      "displayName": "M0SE5 - Inactive",
+      "totalRaces": 8,
+      "avgWpm": 66.3625,
+      "avgAccuracy": 95.03,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 2.6666666666666665,
+      "avgRacesPerSeason": 4,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63040",
+      "userName": "sulfate_wand_stoke",
+      "displayName": "Alpha Klavia",
+      "totalRaces": 11,
+      "avgWpm": 80.7,
+      "avgAccuracy": 97.46,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 11,
+      "avgRacesPerSeason": 11,
+      "teams": [
+        "TMS2"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63265",
+      "userName": "convex",
+      "displayName": "convex",
+      "totalRaces": 7,
+      "avgWpm": 138.8,
+      "avgAccuracy": 96.45,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 7,
+      "avgRacesPerSeason": 7,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63432",
+      "userName": "catwizard",
+      "displayName": "catwizard",
+      "totalRaces": 704,
+      "avgWpm": 99.12897727272728,
+      "avgAccuracy": 98.83619318181819,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 234.66666666666666,
+      "avgRacesPerSeason": 704,
+      "teams": [
+        "STARS"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63709",
+      "userName": "relentless",
+      "displayName": "DragonLovesLEGACY",
+      "totalRaces": 120,
+      "avgWpm": 96.61749999999999,
+      "avgAccuracy": 97.20725,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 24,
+      "avgRacesPerSeason": 40,
+      "teams": [
+        "DISBAND",
+        "TD"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63746",
+      "userName": "mrekk",
+      "displayName": "mrekk",
+      "totalRaces": 788,
+      "avgWpm": 78.76040609137057,
+      "avgAccuracy": 98.68994923857869,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 262.6666666666667,
+      "avgRacesPerSeason": 788,
+      "teams": [
+        "STARS"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63749",
+      "userName": "esjfungaalafia",
+      "displayName": "esjFungaAlafia",
+      "totalRaces": 134,
+      "avgWpm": 100.19328358208955,
+      "avgAccuracy": 98.24455223880598,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 44.666666666666664,
+      "avgRacesPerSeason": 134,
+      "teams": [
+        "STARS"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "70469",
+      "userName": "artytile",
+      "displayName": "Artytile🐈‍⬛Milestoning!",
+      "totalRaces": 1385,
+      "avgWpm": 127.22028880866424,
+      "avgAccuracy": 97.39997833935018,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 277,
+      "avgRacesPerSeason": 461.6666666666667,
+      "teams": [
+        "DISBAND",
+        "RL1"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63390",
+      "userName": "celestial",
+      "displayName": "Celestial",
+      "totalRaces": 2050,
+      "avgWpm": 121.28453658536586,
+      "avgAccuracy": 97.26772682926827,
+      "duelsPlayed": 18,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 113.88888888888889,
+      "avgRacesPerSeason": 292.85714285714283,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63452",
+      "userName": "mewtationnt",
+      "displayName": "Mewtation 5k By Sep 10",
+      "totalRaces": 15,
+      "avgWpm": 118.7,
+      "avgAccuracy": 96.93,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 15,
+      "avgRacesPerSeason": 15,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "63665",
+      "userName": "jibunnboy",
+      "displayName": "Thunder",
+      "totalRaces": 18,
+      "avgWpm": 30.100000000000005,
+      "avgAccuracy": 96.33,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 18,
+      "avgRacesPerSeason": 18,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 2"
+      ]
+    },
+    {
+      "racerId": "41716",
+      "userName": "violetta",
+      "displayName": "LoneVioletwolf",
+      "totalRaces": 420,
+      "avgWpm": 67.73380952380951,
+      "avgAccuracy": 96.73797619047619,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 52.5,
+      "avgRacesPerSeason": 70,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63116",
+      "userName": "turtlzed",
+      "displayName": "i like turtles",
+      "totalRaces": 641,
+      "avgWpm": 166.7461778471139,
+      "avgAccuracy": 97.05210608424338,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 91.57142857142857,
+      "avgRacesPerSeason": 160.25,
+      "teams": [
+        "TD",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63529",
+      "userName": "hyperspeed",
+      "displayName": "Nate",
+      "totalRaces": 140,
+      "avgWpm": 112.4,
+      "avgAccuracy": 97.07,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 140,
+      "avgRacesPerSeason": 140,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "71100",
+      "userName": "dukka",
+      "displayName": "dukka",
+      "totalRaces": 1935,
+      "avgWpm": 128.27571059431526,
+      "avgAccuracy": 97.54086304909559,
+      "duelsPlayed": 11,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 175.9090909090909,
+      "avgRacesPerSeason": 483.75,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71160",
+      "userName": "arentix_cool",
+      "displayName": "Arentix",
+      "totalRaces": 98,
+      "avgWpm": 107.46938775510205,
+      "avgAccuracy": 94.4165306122449,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 49,
+      "avgRacesPerSeason": 49,
+      "teams": [
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "24611",
+      "userName": "typing_cat_17",
+      "displayName": "Mizu",
+      "totalRaces": 87,
+      "avgWpm": 141.43333333333334,
+      "avgAccuracy": 96.66586206896552,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 43.5,
+      "avgRacesPerSeason": 87,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70441",
+      "userName": "yonaofthedawn",
+      "displayName": "YonaoftheDawn #HOKSMASH",
+      "totalRaces": 5175,
+      "avgWpm": 95.64233816425119,
+      "avgAccuracy": 96.30696231884059,
+      "duelsPlayed": 19,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 272.36842105263156,
+      "avgRacesPerSeason": 739.2857142857143,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "70990",
+      "userName": "destroyerhammer",
+      "displayName": "✞𝕯𝖊𝖘𝖙𝖗𝖔𝖞𝖊𝖗𝖍𝖆𝖒𝖒𝖊𝖗✞",
+      "totalRaces": 790,
+      "avgWpm": 112.22493670886075,
+      "avgAccuracy": 95.16350632911394,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 60.76923076923077,
+      "avgRacesPerSeason": 158,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71220",
+      "userName": "shineinthedark",
+      "displayName": "Shine Bright",
+      "totalRaces": 380,
+      "avgWpm": 113.41315789473684,
+      "avgAccuracy": 97.08315789473684,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 190,
+      "avgRacesPerSeason": 380,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63144",
+      "userName": "superben",
+      "displayName": "elon musk official account",
+      "totalRaces": 31,
+      "avgWpm": 111,
+      "avgAccuracy": 95.34,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 31,
+      "avgRacesPerSeason": 31,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63287",
+      "userName": "noobbird39",
+      "displayName": "knight",
+      "totalRaces": 397,
+      "avgWpm": 90.33299748110831,
+      "avgAccuracy": 94.55959697732999,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 198.5,
+      "avgRacesPerSeason": 198.5,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63358",
+      "userName": "octi_hat",
+      "displayName": "octi_hat",
+      "totalRaces": 21,
+      "avgWpm": 59.76190476190476,
+      "avgAccuracy": 97.63,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 10.5,
+      "avgRacesPerSeason": 21,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63374",
+      "userName": "swimcrushlol",
+      "displayName": "crush",
+      "totalRaces": 16,
+      "avgWpm": 117,
+      "avgAccuracy": 96.79,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 16,
+      "avgRacesPerSeason": 16,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70678",
+      "userName": "etherealpizza",
+      "displayName": "precious",
+      "totalRaces": 23,
+      "avgWpm": 56.5,
+      "avgAccuracy": 99.24,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 23,
+      "avgRacesPerSeason": 23,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "71058",
+      "userName": "aero",
+      "displayName": "15 in 13 days",
+      "totalRaces": 1033,
+      "avgWpm": 121.91171345595355,
+      "avgAccuracy": 94.431490803485,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 258.25,
+      "avgRacesPerSeason": 344.3333333333333,
+      "teams": [
+        "GN",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70922",
+      "userName": "odyssey",
+      "displayName": "Odyssey",
+      "totalRaces": 4,
+      "avgWpm": 138.7,
+      "avgAccuracy": 97.93,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 4,
+      "avgRacesPerSeason": 4,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70699",
+      "userName": "slowerd",
+      "displayName": "soword",
+      "totalRaces": 497,
+      "avgWpm": 98.21348088531187,
+      "avgAccuracy": 99.55698189134809,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 165.66666666666666,
+      "avgRacesPerSeason": 497,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "62772",
+      "userName": "nusakalt",
+      "displayName": "NuskAlt",
+      "totalRaces": 68,
+      "avgWpm": 119.08970588235294,
+      "avgAccuracy": 98.94588235294118,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 34,
+      "avgRacesPerSeason": 34,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "62912",
+      "userName": "carcarcar76",
+      "displayName": "Enzo",
+      "totalRaces": 2656,
+      "avgWpm": 81.19118975903615,
+      "avgAccuracy": 97.11606174698795,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 442.6666666666667,
+      "avgRacesPerSeason": 664,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "62913",
+      "userName": "outofmany1",
+      "displayName": "outofmany1",
+      "totalRaces": 2903,
+      "avgWpm": 113.0578711677575,
+      "avgAccuracy": 98.21044781260764,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 483.8333333333333,
+      "avgRacesPerSeason": 725.75,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "63500",
+      "userName": "duck3600",
+      "displayName": "Duckyy🦆",
+      "totalRaces": 262,
+      "avgWpm": 27.84847328244275,
+      "avgAccuracy": 94.33332061068701,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 87.33333333333333,
+      "avgRacesPerSeason": 131,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "63600",
+      "userName": "jellybean947",
+      "displayName": "jellybean946",
+      "totalRaces": 2926,
+      "avgWpm": 143.4012987012987,
+      "avgAccuracy": 99.00624401913875,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 325.1111111111111,
+      "avgRacesPerSeason": 585.2,
+      "teams": [
+        "MED13L",
+        "MV"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71243",
+      "userName": "alight",
+      "displayName": "ChocoDippedStrawberry",
+      "totalRaces": 184,
+      "avgWpm": 122.03097826086957,
+      "avgAccuracy": 98.37054347826087,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 46,
+      "avgRacesPerSeason": 92,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "70448",
+      "userName": "maniacmotorsports",
+      "displayName": "aivalK",
+      "totalRaces": 185,
+      "avgWpm": 115.55945945945946,
+      "avgAccuracy": 96.33432432432434,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 37,
+      "avgRacesPerSeason": 46.25,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "70793",
+      "userName": "duckworth7000",
+      "displayName": "whatagoodteam",
+      "totalRaces": 103,
+      "avgWpm": 84.9,
+      "avgAccuracy": 95.46,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 103,
+      "avgRacesPerSeason": 103,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70655",
+      "userName": "golden_retriever",
+      "displayName": "golden_retriever out. thanks k",
+      "totalRaces": 456,
+      "avgWpm": 95.9701754385965,
+      "avgAccuracy": 96.40043859649121,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 114,
+      "avgRacesPerSeason": 152,
+      "teams": [
+        "STRS",
+        "XGR"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "70698",
+      "userName": "nitrotypefella",
+      "displayName": "NitroTyper",
+      "totalRaces": 65,
+      "avgWpm": 126.97384615384614,
+      "avgAccuracy": 97.47938461538462,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 16.25,
+      "avgRacesPerSeason": 21.666666666666668,
+      "teams": [
+        "HOK",
+        "XGR",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "62898",
+      "userName": "prosperity",
+      "displayName": "Prosper",
+      "totalRaces": 1396,
+      "avgWpm": 115.75888252148997,
+      "avgAccuracy": 99.46901862464183,
+      "duelsPlayed": 16,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 87.25,
+      "avgRacesPerSeason": 232.66666666666666,
+      "teams": [
+        "DISBAND",
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63219",
+      "userName": "cr4zy_typer_yt",
+      "displayName": "🖤🥀 Cr4zyTyper_YT TTV Live🥀🖤",
+      "totalRaces": 1081,
+      "avgWpm": 105.32201665124884,
+      "avgAccuracy": 97.29397779833488,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 120.11111111111111,
+      "avgRacesPerSeason": 216.2,
+      "teams": [
+        "DISBAND",
+        "RL1",
+        "TK",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63359",
+      "userName": "sl1xiny",
+      "displayName": "$𝖑1𝖝𝖎𝖓𝖞",
+      "totalRaces": 130,
+      "avgWpm": 113.35,
+      "avgAccuracy": 95.79446153846153,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 26,
+      "avgRacesPerSeason": 65,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "70585",
+      "userName": "shattered",
+      "displayName": "shattered",
+      "totalRaces": 1,
+      "avgWpm": 90.7,
+      "avgAccuracy": 97.8,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "71017",
+      "userName": "watcha_",
+      "displayName": "watcha_",
+      "totalRaces": 1,
+      "avgWpm": 28.7,
+      "avgAccuracy": 94.12,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "63408",
+      "userName": "pix2112",
+      "displayName": "PIX⚡back next season",
+      "totalRaces": 8,
+      "avgWpm": 72.2,
+      "avgAccuracy": 94.88,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 8,
+      "avgRacesPerSeason": 8,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "70788",
+      "userName": "barbie",
+      "displayName": "Barbie",
+      "totalRaces": 30,
+      "avgWpm": 58.6,
+      "avgAccuracy": 99.37000000000002,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 30,
+      "avgRacesPerSeason": 30,
+      "teams": [
+        "XGR"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "71119",
+      "userName": "goodboy",
+      "displayName": "cellestrune",
+      "totalRaces": 435,
+      "avgWpm": 88.91816091954023,
+      "avgAccuracy": 97.04190804597702,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 7,
+      "avgRacesPerDuel": 33.46153846153846,
+      "avgRacesPerSeason": 62.142857142857146,
+      "teams": [
+        "HOK",
+        "TD",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71217",
+      "userName": "kismeses_kiss",
+      "displayName": "kismeses_kiss",
+      "totalRaces": 203,
+      "avgWpm": 87.4,
+      "avgAccuracy": 97.17000000000002,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 203,
+      "avgRacesPerSeason": 203,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 3"
+      ]
+    },
+    {
+      "racerId": "71502",
+      "userName": "riverdoggo11",
+      "displayName": "Alto",
+      "totalRaces": 170,
+      "avgWpm": 67.77176470588235,
+      "avgAccuracy": 98.12117647058822,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 34,
+      "avgRacesPerSeason": 85,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71725",
+      "userName": "audiowolf",
+      "displayName": "One. Man. Army.",
+      "totalRaces": 1179,
+      "avgWpm": 96.23248515691265,
+      "avgAccuracy": 97.25510602205259,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 131,
+      "avgRacesPerSeason": 294.75,
+      "teams": [
+        "HOK",
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71803",
+      "userName": "ilikeudon",
+      "displayName": "ILikeUdon",
+      "totalRaces": 159,
+      "avgWpm": 80.69308176100628,
+      "avgAccuracy": 93.88465408805031,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 53,
+      "avgRacesPerSeason": 159,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71305",
+      "userName": "100acc_only",
+      "displayName": "Pancakez4DND",
+      "totalRaces": 1,
+      "avgWpm": 67.6,
+      "avgAccuracy": 98,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "RKL"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71376",
+      "userName": "shizumu",
+      "displayName": "Shizumu",
+      "totalRaces": 452,
+      "avgWpm": 93.33075221238938,
+      "avgAccuracy": 97.12475663716815,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 226,
+      "avgRacesPerSeason": 452,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63203",
+      "userName": "jacksontyper",
+      "displayName": "ጋልርጕነዐክፕሃየቿዪ _ 85% to 10K!",
+      "totalRaces": 120,
+      "avgWpm": 68.16416666666667,
+      "avgAccuracy": 94.95016666666668,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 40,
+      "avgRacesPerSeason": 40,
+      "teams": [
+        "ME0W",
+        "STRS",
+        "TD"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "70434",
+      "userName": "conconcaobro",
+      "displayName": "Wave",
+      "totalRaces": 466,
+      "avgWpm": 113.29270386266094,
+      "avgAccuracy": 97.89090128755366,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 93.2,
+      "avgRacesPerSeason": 116.5,
+      "teams": [
+        "MASTER",
+        "STRS",
+        "TD"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "70611",
+      "userName": "evelyn_kay",
+      "displayName": "Evelyn_Kay (inactive)",
+      "totalRaces": 54,
+      "avgWpm": 83.9,
+      "avgAccuracy": 97.70999999999998,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 54,
+      "avgRacesPerSeason": 54,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71003",
+      "userName": "curranthegreat",
+      "displayName": "❄𝔹𝕝𝕚𝕫𝕫𝕒𝕣𝕕❄",
+      "totalRaces": 237,
+      "avgWpm": 61.29957805907173,
+      "avgAccuracy": 98.87168776371308,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 79,
+      "avgRacesPerSeason": 79,
+      "teams": [
+        "MASTER",
+        "STRS",
+        "TD"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71034",
+      "userName": "brave",
+      "displayName": "Brave",
+      "totalRaces": 1551,
+      "avgWpm": 122.07549967762733,
+      "avgAccuracy": 95.97404255319148,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 193.875,
+      "avgRacesPerSeason": 517,
+      "teams": [
+        "HOK",
+        "MV",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 6",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71545",
+      "userName": "woodruffjelly",
+      "displayName": "WoodruffJelly",
+      "totalRaces": 2065,
+      "avgWpm": 94.87307506053268,
+      "avgAccuracy": 97.94095883777237,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 516.25,
+      "avgRacesPerSeason": 688.3333333333334,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71722",
+      "userName": "endgame",
+      "displayName": "Endgame",
+      "totalRaces": 26,
+      "avgWpm": 69.7,
+      "avgAccuracy": 89.81,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 26,
+      "avgRacesPerSeason": 26,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71869",
+      "userName": "sharon",
+      "displayName": "CTRL ALT REVIVE!!",
+      "totalRaces": 1,
+      "avgWpm": 116.3,
+      "avgAccuracy": 98.06,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "72010",
+      "userName": "aliensoldier_2025",
+      "displayName": "CottonDandi",
+      "totalRaces": 131,
+      "avgWpm": 103.38931297709924,
+      "avgAccuracy": 96.98435114503818,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 65.5,
+      "avgRacesPerSeason": 131,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71452",
+      "userName": "amadeus_mozart_nitro_typer",
+      "displayName": "👑𝓜𝕠𝒛ⱥ𝔯t👑",
+      "totalRaces": 1604,
+      "avgWpm": 100.06926433915213,
+      "avgAccuracy": 98.02393391521198,
+      "duelsPlayed": 13,
+      "seasonsPlayed": 6,
+      "avgRacesPerDuel": 123.38461538461539,
+      "avgRacesPerSeason": 267.3333333333333,
+      "teams": [
+        "RL1",
+        "RYZ",
+        "STRS",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71795",
+      "userName": "ganzir",
+      "displayName": "Gurgeh",
+      "totalRaces": 2985,
+      "avgWpm": 118.27386934673366,
+      "avgAccuracy": 98.20173199329983,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 248.75,
+      "avgRacesPerSeason": 597,
+      "teams": [
+        "RYZ",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71958",
+      "userName": "cuhrowns",
+      "displayName": "cam",
+      "totalRaces": 899,
+      "avgWpm": 115.20300333704115,
+      "avgAccuracy": 97.98404894327031,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 128.42857142857142,
+      "avgRacesPerSeason": 449.5,
+      "teams": [
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "70944",
+      "userName": "gracee_s",
+      "displayName": "graceeS",
+      "totalRaces": 5,
+      "avgWpm": 60.6,
+      "avgAccuracy": 95.42,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 5,
+      "avgRacesPerSeason": 5,
+      "teams": [
+        "ME0W"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71057",
+      "userName": "agilepeachcatfish",
+      "displayName": "• 𝛣𝜄𝜇𝜀𝛽𝜀𝜄𝜄 •",
+      "totalRaces": 135,
+      "avgWpm": 70.06814814814815,
+      "avgAccuracy": 93.72785185185184,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 33.75,
+      "avgRacesPerSeason": 45,
+      "teams": [
+        "DISBAND",
+        "MASTER",
+        "TK"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71159",
+      "userName": "cbp_typer",
+      "displayName": "💚🐢⇚CBP Typer⇛🐢💚",
+      "totalRaces": 258,
+      "avgWpm": 82.9279069767442,
+      "avgAccuracy": 96.34802325581396,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 129,
+      "avgRacesPerSeason": 258,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71583",
+      "userName": "vindicta",
+      "displayName": "Vindicta",
+      "totalRaces": 28,
+      "avgWpm": 70.54285714285714,
+      "avgAccuracy": 96.57142857142857,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 14,
+      "avgRacesPerSeason": 14,
+      "teams": [
+        "DISBAND",
+        "RL1"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71834",
+      "userName": "luke",
+      "displayName": "♱ endure",
+      "totalRaces": 60,
+      "avgWpm": 72.49833333333332,
+      "avgAccuracy": 97.82850000000002,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 20,
+      "avgRacesPerSeason": 30,
+      "teams": [
+        "DISBAND",
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "63214",
+      "userName": "ford_racer",
+      "displayName": "Viper𓅯",
+      "totalRaces": 783,
+      "avgWpm": 116.8897828863346,
+      "avgAccuracy": 95.24334610472542,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 130.5,
+      "avgRacesPerSeason": 195.75,
+      "teams": [
+        "LEGEND",
+        "MED13L",
+        "RL1",
+        "VYN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63757",
+      "userName": "andrewgoleta",
+      "displayName": "🚀Rocket🚀",
+      "totalRaces": 432,
+      "avgWpm": 94.09166666666667,
+      "avgAccuracy": 96.68976851851852,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 72,
+      "avgRacesPerSeason": 144,
+      "teams": [
+        "ME0W",
+        "MED13L",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "70814",
+      "userName": "cryptyx",
+      "displayName": "Cryptyx - Retired",
+      "totalRaces": 637,
+      "avgWpm": 97.60565149136578,
+      "avgAccuracy": 98.64472527472527,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 91,
+      "avgRacesPerSeason": 212.33333333333334,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "71237",
+      "userName": "peace2prayer",
+      "displayName": "santi",
+      "totalRaces": 3154,
+      "avgWpm": 146.16058972733038,
+      "avgAccuracy": 96.86566582117948,
+      "duelsPlayed": 15,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 210.26666666666668,
+      "avgRacesPerSeason": 630.8,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71289",
+      "userName": "mbur28",
+      "displayName": "mburchell28 - ZN 4L",
+      "totalRaces": 680,
+      "avgWpm": 141.69691176470587,
+      "avgAccuracy": 97.05044117647057,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 85,
+      "avgRacesPerSeason": 226.66666666666666,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "71290",
+      "userName": "stream_d3n",
+      "displayName": "d3n",
+      "totalRaces": 652,
+      "avgWpm": 87.61717791411043,
+      "avgAccuracy": 96.61611963190184,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 81.5,
+      "avgRacesPerSeason": 217.33333333333334,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "71664",
+      "userName": "altairo2025",
+      "displayName": "Altairo",
+      "totalRaces": 327,
+      "avgWpm": 104.34311926605504,
+      "avgAccuracy": 96.75590214067279,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 46.714285714285715,
+      "avgRacesPerSeason": 109,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "71898",
+      "userName": "lightningtyper100",
+      "displayName": "powerrrrrrrrrrrrr",
+      "totalRaces": 10,
+      "avgWpm": 78.06,
+      "avgAccuracy": 92.97,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 5,
+      "avgRacesPerSeason": 10,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71944",
+      "userName": "ilovethelegendofzleda",
+      "displayName": "PleaselHelpMeSaveUp4Premium",
+      "totalRaces": 1,
+      "avgWpm": 35.1,
+      "avgAccuracy": 89.29,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "LEGEND"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71987",
+      "userName": "evanis67",
+      "displayName": "Evanis67",
+      "totalRaces": 2,
+      "avgWpm": 48.9,
+      "avgAccuracy": 90.36,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 2,
+      "avgRacesPerSeason": 2,
+      "teams": [
+        "LEGEND"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63192",
+      "userName": "duckrat99",
+      "displayName": "excited 4 New 3D Typing Game",
+      "totalRaces": 1,
+      "avgWpm": 90.3,
+      "avgAccuracy": 95.71,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63457",
+      "userName": "flaneur",
+      "displayName": "flaneur",
+      "totalRaces": 702,
+      "avgWpm": 193.96068376068376,
+      "avgAccuracy": 97.78925925925925,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 175.5,
+      "avgRacesPerSeason": 351,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 4",
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "70476",
+      "userName": "charlie",
+      "displayName": "Charlie",
+      "totalRaces": 430,
+      "avgWpm": 94.2,
+      "avgAccuracy": 97.07,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 430,
+      "avgRacesPerSeason": 430,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71350",
+      "userName": "abctyper",
+      "displayName": "My Accuracy Is So Bad",
+      "totalRaces": 74,
+      "avgWpm": 88.3,
+      "avgAccuracy": 98.07,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 74,
+      "avgRacesPerSeason": 74,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "71613",
+      "userName": "spotermelon",
+      "displayName": "Jesus is King",
+      "totalRaces": 1,
+      "avgWpm": 86.5,
+      "avgAccuracy": 94.04,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "DISBAND"
+      ],
+      "seasons": [
+        "Season 4"
+      ]
+    },
+    {
+      "racerId": "63712",
+      "userName": "svemir",
+      "displayName": "🌚 𝔰𝔳𝔢𝔪𝔦𝔯🪐 #wearethe𝔹𝕆ℕ𝕂𝔼ℝ𝕊!!!",
+      "totalRaces": 1728,
+      "avgWpm": 62.93802083333334,
+      "avgAccuracy": 99.40199652777777,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 345.6,
+      "avgRacesPerSeason": 432,
+      "teams": [
+        "SMASHO",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "70910",
+      "userName": "german_shepherd",
+      "displayName": "----- RAFFLE RULES -----",
+      "totalRaces": 122,
+      "avgWpm": 91.6,
+      "avgAccuracy": 98.07,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 122,
+      "avgRacesPerSeason": 122,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71156",
+      "userName": "shyguyonklavia",
+      "displayName": "ShyGuy",
+      "totalRaces": 62,
+      "avgWpm": 115.4,
+      "avgAccuracy": 93.87,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 62,
+      "avgRacesPerSeason": 62,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71353",
+      "userName": "youiamum",
+      "displayName": "junior <3 MX",
+      "totalRaces": 2861,
+      "avgWpm": 114.67200279622509,
+      "avgAccuracy": 98.33312827682629,
+      "duelsPlayed": 14,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 204.35714285714286,
+      "avgRacesPerSeason": 572.2,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71357",
+      "userName": "3keyboard",
+      "displayName": "༺𝐒𝐌𝐀𝐒𝐇𝐎༻ (Retired)",
+      "totalRaces": 12,
+      "avgWpm": 78.6,
+      "avgAccuracy": 95.83,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 12,
+      "avgRacesPerSeason": 12,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71581",
+      "userName": "abluxionk",
+      "displayName": "Abluxion",
+      "totalRaces": 2978,
+      "avgWpm": 148.99069845533913,
+      "avgAccuracy": 98.99050369375419,
+      "duelsPlayed": 14,
+      "seasonsPlayed": 5,
+      "avgRacesPerDuel": 212.71428571428572,
+      "avgRacesPerSeason": 595.6,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72120",
+      "userName": "isaac",
+      "displayName": "𝘐𝘴𝘢𝘢𝘤",
+      "totalRaces": 143,
+      "avgWpm": 138.6174825174825,
+      "avgAccuracy": 98.64559440559441,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 47.666666666666664,
+      "avgRacesPerSeason": 143,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72360",
+      "userName": "1keyboard",
+      "displayName": "⎝=✪=༒︎⚔⎝𝔸𝕧𝕖𝕟𝕘𝕖𝕣⎠⚔༒︎=✪=⎠",
+      "totalRaces": 31,
+      "avgWpm": 55.8,
+      "avgAccuracy": 97.85,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 31,
+      "avgRacesPerSeason": 31,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72406",
+      "userName": "klaviatyping",
+      "displayName": "Colemak Solo",
+      "totalRaces": 19,
+      "avgWpm": 65,
+      "avgAccuracy": 98.77,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 19,
+      "avgRacesPerSeason": 19,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72454",
+      "userName": "flufflebroker",
+      "displayName": "Pumpkin Pie",
+      "totalRaces": 68,
+      "avgWpm": 121.51764705882354,
+      "avgAccuracy": 98.34176470588235,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 34,
+      "avgRacesPerSeason": 34,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "72528",
+      "userName": "2keyboard",
+      "displayName": "Dynamic X10",
+      "totalRaces": 79,
+      "avgWpm": 33.6,
+      "avgAccuracy": 96.71,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 79,
+      "avgRacesPerSeason": 79,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72533",
+      "userName": "fastguitar",
+      "displayName": "Faster Faster Faster",
+      "totalRaces": 55,
+      "avgWpm": 32.5,
+      "avgAccuracy": 95.77999999999999,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 55,
+      "avgRacesPerSeason": 55,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72569",
+      "userName": "supernova",
+      "displayName": "SUPERNOVA",
+      "totalRaces": 35,
+      "avgWpm": 43.4,
+      "avgAccuracy": 95.55,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 35,
+      "avgRacesPerSeason": 35,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72571",
+      "userName": "ford",
+      "displayName": "༺»★«💰༒☬𝐂𝐚𝐩𝐭𝐚𝐢𝐧★𝐒𝐌𝐀𝐒𝐇𝐎★𝟐☬༒💰»★«༻",
+      "totalRaces": 50,
+      "avgWpm": 46.1,
+      "avgAccuracy": 97.66,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 50,
+      "avgRacesPerSeason": 50,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72650",
+      "userName": "salvia",
+      "displayName": "Salvia",
+      "totalRaces": 618,
+      "avgWpm": 113.56326860841425,
+      "avgAccuracy": 98.80961165048544,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 123.6,
+      "avgRacesPerSeason": 309,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71571",
+      "userName": "ramforward",
+      "displayName": "Kole",
+      "totalRaces": 60,
+      "avgWpm": 125.5,
+      "avgAccuracy": 97.45,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 60,
+      "avgRacesPerSeason": 60,
+      "teams": [
+        "TK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72017",
+      "userName": "guest_1e41c540",
+      "displayName": "Amerks 14K",
+      "totalRaces": 623,
+      "avgWpm": 96.33916532905297,
+      "avgAccuracy": 95.55706260032103,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 124.6,
+      "avgRacesPerSeason": 155.75,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72033",
+      "userName": "crazycat",
+      "displayName": "Crazycat",
+      "totalRaces": 67,
+      "avgWpm": 109.5,
+      "avgAccuracy": 97.39,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 67,
+      "avgRacesPerSeason": 67,
+      "teams": [
+        "TK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72113",
+      "userName": "xalonmobile",
+      "displayName": "mobile xal",
+      "totalRaces": 21,
+      "avgWpm": 86,
+      "avgAccuracy": 97.43,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 21,
+      "avgRacesPerSeason": 21,
+      "teams": [
+        "TK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72536",
+      "userName": "egordeministhegoat",
+      "displayName": "Moontide",
+      "totalRaces": 1,
+      "avgWpm": 159.1,
+      "avgAccuracy": 99.37,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "TK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72716",
+      "userName": "boredem",
+      "displayName": "boredem",
+      "totalRaces": 6,
+      "avgWpm": 86.7,
+      "avgAccuracy": 95.74,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 6,
+      "avgRacesPerSeason": 6,
+      "teams": [
+        "TK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72719",
+      "userName": "tvgrinder",
+      "displayName": "GRAVELORD",
+      "totalRaces": 171,
+      "avgWpm": 129.86315789473684,
+      "avgAccuracy": 95.50315789473684,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 85.5,
+      "avgRacesPerSeason": 171,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "70749",
+      "userName": "error",
+      "displayName": "error back at home",
+      "totalRaces": 260,
+      "avgWpm": 119.66269230769232,
+      "avgAccuracy": 98.42084615384614,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 86.66666666666667,
+      "avgRacesPerSeason": 130,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71118",
+      "userName": "henryeatsbricks",
+      "displayName": "henryeatstrainsXD_IM BACKKKK_",
+      "totalRaces": 6,
+      "avgWpm": 67.83333333333333,
+      "avgAccuracy": 95.67999999999999,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 3,
+      "avgRacesPerSeason": 6,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71256",
+      "userName": "static",
+      "displayName": "Statix REACHZENITH",
+      "totalRaces": 34,
+      "avgWpm": 86.9,
+      "avgAccuracy": 99.32,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 34,
+      "avgRacesPerSeason": 34,
+      "teams": [
+        "FL"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71752",
+      "userName": "bewarethefluffle",
+      "displayName": "B𝖊𝖜𝖆𝖗𝖊 𝖙𝖍𝖊 F𝖑𝖚𝖋𝖋𝖑𝖊 🐇",
+      "totalRaces": 50,
+      "avgWpm": 106.8,
+      "avgAccuracy": 99.59,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 50,
+      "avgRacesPerSeason": 50,
+      "teams": [
+        "FL"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72216",
+      "userName": "guest_b1ea216f",
+      "displayName": "𝑨𝒍𝒆𝒈𝒓𝒊𝒂 - 5K!",
+      "totalRaces": 167,
+      "avgWpm": 60.27604790419162,
+      "avgAccuracy": 92.16946107784432,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 55.666666666666664,
+      "avgRacesPerSeason": 83.5,
+      "teams": [
+        "FL",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "72715",
+      "userName": "shift",
+      "displayName": "Dehvan",
+      "totalRaces": 1232,
+      "avgWpm": 112.92727272727275,
+      "avgAccuracy": 98.19011363636363,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 616,
+      "avgRacesPerSeason": 1232,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "63676",
+      "userName": "naruto",
+      "displayName": "Naruto",
+      "totalRaces": 173,
+      "avgWpm": 64.9,
+      "avgAccuracy": 99.62803468208094,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 86.5,
+      "avgRacesPerSeason": 86.5,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "72548",
+      "userName": "squidkid",
+      "displayName": "squidez",
+      "totalRaces": 255,
+      "avgWpm": 115.14274509803923,
+      "avgAccuracy": 95.37949019607842,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 127.5,
+      "avgRacesPerSeason": 255,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72786",
+      "userName": "heaven",
+      "displayName": "heaven",
+      "totalRaces": 107,
+      "avgWpm": 98.56448598130841,
+      "avgAccuracy": 98.40439252336449,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 35.666666666666664,
+      "avgRacesPerSeason": 107,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "72789",
+      "userName": "comet",
+      "displayName": "Comet",
+      "totalRaces": 365,
+      "avgWpm": 67.17945205479452,
+      "avgAccuracy": 99.47465753424657,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 182.5,
+      "avgRacesPerSeason": 182.5,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "63813",
+      "userName": "maestro",
+      "displayName": "maestro",
+      "totalRaces": 2775,
+      "avgWpm": 97.02900900900902,
+      "avgAccuracy": 97.6679063063063,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 308.3333333333333,
+      "avgRacesPerSeason": 693.75,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 5",
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63904",
+      "userName": "youngboy",
+      "displayName": "im so rude i dont wanna argue",
+      "totalRaces": 7,
+      "avgWpm": 151,
+      "avgAccuracy": 99.51,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 7,
+      "avgRacesPerSeason": 7,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "70590",
+      "userName": "tylertiger_alt",
+      "displayName": "TylerTiger 1.5",
+      "totalRaces": 200,
+      "avgWpm": 141.1,
+      "avgAccuracy": 96.9,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 200,
+      "avgRacesPerSeason": 200,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 5"
+      ]
+    },
+    {
+      "racerId": "71023",
+      "userName": "mrbang",
+      "displayName": "Mr. Bang",
+      "totalRaces": 94,
+      "avgWpm": 99,
+      "avgAccuracy": 98.05999999999999,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 94,
+      "avgRacesPerSeason": 94,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "71024",
+      "userName": "guest_05f0bda8",
+      "displayName": "Billy",
+      "totalRaces": 146,
+      "avgWpm": 89.9,
+      "avgAccuracy": 97.91,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 146,
+      "avgRacesPerSeason": 146,
+      "teams": [
+        "MED13L"
+      ],
+      "seasons": [
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "73262",
+      "userName": "ratfish",
+      "displayName": "𝕽𝖆𝖙𝖋𝖎𝖘𝖍♡",
+      "totalRaces": 3826,
+      "avgWpm": 105.86915838996342,
+      "avgAccuracy": 97.47038159958181,
+      "duelsPlayed": 12,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 318.8333333333333,
+      "avgRacesPerSeason": 956.5,
+      "teams": [
+        "MV",
+        "VYN",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63194",
+      "userName": "elaia",
+      "displayName": "elaia",
+      "totalRaces": 2022,
+      "avgWpm": 67.43689416419386,
+      "avgAccuracy": 98.91598911968349,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 224.66666666666666,
+      "avgRacesPerSeason": 505.5,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63653",
+      "userName": "mizoqc",
+      "displayName": "☾ 𝚁𝚞𝚜𝚝𝚢 𝙼𝚒𝚣𝚘.",
+      "totalRaces": 1851,
+      "avgWpm": 106.97347379794705,
+      "avgAccuracy": 94.09392760669907,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 308.5,
+      "avgRacesPerSeason": 617,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73047",
+      "userName": "not1984",
+      "displayName": "1984",
+      "totalRaces": 71,
+      "avgWpm": 109.6,
+      "avgAccuracy": 96.17,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 71,
+      "avgRacesPerSeason": 71,
+      "teams": [
+        "GTX"
+      ],
+      "seasons": [
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "73163",
+      "userName": "mastertime",
+      "displayName": "𝕄𝕒𝕤𝕥𝕖𝕣𝕋𝕚𝕞𝕖 inv me on NT",
+      "totalRaces": 332,
+      "avgWpm": 127.86144578313252,
+      "avgAccuracy": 96.87855421686747,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 83,
+      "avgRacesPerSeason": 83,
+      "teams": [
+        "GTX",
+        "MASTER",
+        "TD"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72148",
+      "userName": "melbelle",
+      "displayName": "MelBelle #JOINSmasho!",
+      "totalRaces": 101,
+      "avgWpm": 71.3,
+      "avgAccuracy": 97.47,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 101,
+      "avgRacesPerSeason": 101,
+      "teams": [
+        "SMASHO"
+      ],
+      "seasons": [
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "72974",
+      "userName": "racket_layout",
+      "displayName": "ᓚᘏᗢ𝗿𝗮𝗰𝗸𝗲𝘁",
+      "totalRaces": 1194,
+      "avgWpm": 90.44363484087101,
+      "avgAccuracy": 98.25213567839197,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 238.8,
+      "avgRacesPerSeason": 398,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73218",
+      "userName": "xosi",
+      "displayName": "𝕨𝕒𝕜𝕖 𝕦𝕡 𝕩𝕠𝕤𝕚 𓂀",
+      "totalRaces": 183,
+      "avgWpm": 111.52131147540985,
+      "avgAccuracy": 96.84803278688526,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 61,
+      "avgRacesPerSeason": 183,
+      "teams": [
+        "ZN"
+      ],
+      "seasons": [
+        "Season 6"
+      ]
+    },
+    {
+      "racerId": "27592",
+      "userName": "keiko",
+      "displayName": "keiko",
+      "totalRaces": 1564,
+      "avgWpm": 83.80575447570331,
+      "avgAccuracy": 95.56866368286444,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 223.42857142857142,
+      "avgRacesPerSeason": 391,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63314",
+      "userName": "silverfox",
+      "displayName": "Rui",
+      "totalRaces": 2674,
+      "avgWpm": 112.05366492146597,
+      "avgAccuracy": 97.8002243829469,
+      "duelsPlayed": 9,
+      "seasonsPlayed": 4,
+      "avgRacesPerDuel": 297.1111111111111,
+      "avgRacesPerSeason": 668.5,
+      "teams": [
+        "HOK",
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 6",
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "27153",
+      "userName": "winnertyper9",
+      "displayName": "☾ 𝖙𝖆𝖑𝖊𝖓𝖙𝖊𝖉 ☆",
+      "totalRaces": 962,
+      "avgWpm": 83.46278586278586,
+      "avgAccuracy": 96.5993555093555,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 240.5,
+      "avgRacesPerSeason": 481,
+      "teams": [
+        "HOK",
+        "MASTER"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "70686",
+      "userName": "sloword",
+      "displayName": "Christ Is King",
+      "totalRaces": 546,
+      "avgWpm": 118.5,
+      "avgAccuracy": 99.06,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 546,
+      "avgRacesPerSeason": 546,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "72259",
+      "userName": "immortal",
+      "displayName": "Immortal",
+      "totalRaces": 195,
+      "avgWpm": 86.6,
+      "avgAccuracy": 99.39,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 195,
+      "avgRacesPerSeason": 195,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73348",
+      "userName": "crex",
+      "displayName": "𝒞𝓇ℯ𝓍𝒸ℯ𝓃𝓉",
+      "totalRaces": 1561,
+      "avgWpm": 133.9554131966688,
+      "avgAccuracy": 97.97467648942985,
+      "duelsPlayed": 7,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 223,
+      "avgRacesPerSeason": 520.3333333333334,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73559",
+      "userName": "starblitz",
+      "displayName": "Mamba",
+      "totalRaces": 400,
+      "avgWpm": 125.9,
+      "avgAccuracy": 96.85,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 400,
+      "avgRacesPerSeason": 400,
+      "teams": [
+        "GN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "22816",
+      "userName": "ily2thestars",
+      "displayName": "ꩇυ꯱ꪱᝯ𝕚𝕤Sti11ᴋᴇy",
+      "totalRaces": 603,
+      "avgWpm": 109.2072968490879,
+      "avgAccuracy": 97.99014925373135,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 150.75,
+      "avgRacesPerSeason": 301.5,
+      "teams": [
+        "HOK",
+        "STRS"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62819",
+      "userName": "niasd",
+      "displayName": "𝘣𝘰𝘯 JOIN STARMANTIC!",
+      "totalRaces": 741,
+      "avgWpm": 101.77786774628879,
+      "avgAccuracy": 96.4510661268556,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 247,
+      "avgRacesPerSeason": 370.5,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71713",
+      "userName": "arrowstrike",
+      "displayName": "ArrowStrikeજ⁀➴Long Live Klavia",
+      "totalRaces": 6,
+      "avgWpm": 122.59999999999998,
+      "avgAccuracy": 97.01,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 6,
+      "avgRacesPerSeason": 6,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71814",
+      "userName": "winterwonder1",
+      "displayName": "𝓦𝓲𝓷𝓽𝓮𝓻~𝓦𝓸𝓷𝓭𝓮𝓻",
+      "totalRaces": 75,
+      "avgWpm": 29.9,
+      "avgAccuracy": 97.22,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 75,
+      "avgRacesPerSeason": 75,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "72215",
+      "userName": "navin",
+      "displayName": "navin",
+      "totalRaces": 4934,
+      "avgWpm": 115.71884880421565,
+      "avgAccuracy": 97.29755168220511,
+      "duelsPlayed": 8,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 616.75,
+      "avgRacesPerSeason": 1644.6666666666667,
+      "teams": [
+        "MV",
+        "STRS",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72729",
+      "userName": "titusdb",
+      "displayName": "𝓡𝓐𝓟𝓣𝓞𝓡",
+      "totalRaces": 620,
+      "avgWpm": 112.25919354838709,
+      "avgAccuracy": 97.2957741935484,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 124,
+      "avgRacesPerSeason": 206.66666666666666,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72804",
+      "userName": "reesespieces",
+      "displayName": "𝕽𝖊𝖊𝖘𝖊𝖘𝖕𝖎𝖊𝖈𝖊𝖘# Gone 4 a bit",
+      "totalRaces": 563,
+      "avgWpm": 66.1595026642984,
+      "avgAccuracy": 97.31753108348136,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 281.5,
+      "avgRacesPerSeason": 563,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73312",
+      "userName": "karsinkai",
+      "displayName": "ₕᵢ",
+      "totalRaces": 373,
+      "avgWpm": 90.1986595174263,
+      "avgAccuracy": 96.89123324396783,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 93.25,
+      "avgRacesPerSeason": 124.33333333333333,
+      "teams": [
+        "MASTER",
+        "STRS",
+        "TD"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73543",
+      "userName": "thrillargorillar",
+      "displayName": "AM Dude - RyzUp",
+      "totalRaces": 387,
+      "avgWpm": 91.18837209302326,
+      "avgAccuracy": 99.02222222222221,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 77.4,
+      "avgRacesPerSeason": 129,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73819",
+      "userName": "olivia",
+      "displayName": "olivia",
+      "totalRaces": 1181,
+      "avgWpm": 93.7865368331922,
+      "avgAccuracy": 99.53845046570704,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 295.25,
+      "avgRacesPerSeason": 393.6666666666667,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73189",
+      "userName": "mcbraydenonnt",
+      "displayName": "mcbrayden",
+      "totalRaces": 691,
+      "avgWpm": 97.71780028943557,
+      "avgAccuracy": 95.54108538350216,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 115.16666666666667,
+      "avgRacesPerSeason": 345.5,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "73632",
+      "userName": "ashes",
+      "displayName": "ash",
+      "totalRaces": 581,
+      "avgWpm": 124.71790017211706,
+      "avgAccuracy": 99.00798623063683,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 193.66666666666666,
+      "avgRacesPerSeason": 581,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73821",
+      "userName": "japanthenippon",
+      "displayName": "future-graciasmessi",
+      "totalRaces": 1038,
+      "avgWpm": 105.66830443159922,
+      "avgAccuracy": 97.60635838150289,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 173,
+      "avgRacesPerSeason": 519,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63109",
+      "userName": "riptide",
+      "displayName": "🌊Riptide🌊",
+      "totalRaces": 136,
+      "avgWpm": 131.9,
+      "avgAccuracy": 95.42,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 136,
+      "avgRacesPerSeason": 136,
+      "teams": [
+        "TD"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "63248",
+      "userName": "guappaneze",
+      "displayName": "fireheady",
+      "totalRaces": 21,
+      "avgWpm": 162.7,
+      "avgAccuracy": 97.81000000000002,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 21,
+      "avgRacesPerSeason": 21,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71195",
+      "userName": "pharaoh",
+      "displayName": "Pharaoh",
+      "totalRaces": 65,
+      "avgWpm": 107.4,
+      "avgAccuracy": 99.65,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 65,
+      "avgRacesPerSeason": 65,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "71453",
+      "userName": "topher_loafer",
+      "displayName": "Ꮦᴏᴘʜᴇʀ",
+      "totalRaces": 83,
+      "avgWpm": 100.51807228915662,
+      "avgAccuracy": 97.27807228915663,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 41.5,
+      "avgRacesPerSeason": 41.5,
+      "teams": [
+        "TD"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "72968",
+      "userName": "artemisdusk",
+      "displayName": "X_Nurmal_X",
+      "totalRaces": 10,
+      "avgWpm": 55.4,
+      "avgAccuracy": 97.35,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 10,
+      "avgRacesPerSeason": 10,
+      "teams": [
+        "TD"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73164",
+      "userName": "titusdb2",
+      "displayName": "KKKING. join my team",
+      "totalRaces": 1,
+      "avgWpm": 109.5,
+      "avgAccuracy": 98.39,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "TD"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73293",
+      "userName": "wastage",
+      "displayName": "Wastage",
+      "totalRaces": 442,
+      "avgWpm": 97.5183257918552,
+      "avgAccuracy": 96.95549773755657,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 221,
+      "avgRacesPerSeason": 442,
+      "teams": [
+        "VYN"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73343",
+      "userName": "mystica",
+      "displayName": "𝒱𝒶𝓅𝑜𝓇𝒾𝓏𝑒𝒹",
+      "totalRaces": 468,
+      "avgWpm": 97.29316239316239,
+      "avgAccuracy": 95.29897435897435,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 3,
+      "avgRacesPerDuel": 156,
+      "avgRacesPerSeason": 156,
+      "teams": [
+        "MASTER",
+        "TD"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73442",
+      "userName": "avtphoebe",
+      "displayName": "pb",
+      "totalRaces": 455,
+      "avgWpm": 78.4,
+      "avgAccuracy": 97.02,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 455,
+      "avgRacesPerSeason": 455,
+      "teams": [
+        "TD"
+      ],
+      "seasons": [
+        "Season 7"
+      ]
+    },
+    {
+      "racerId": "73629",
+      "userName": "miracle",
+      "displayName": "miracle",
+      "totalRaces": 2690,
+      "avgWpm": 110.16579925650558,
+      "avgAccuracy": 99.55026022304833,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 672.5,
+      "avgRacesPerSeason": 1345,
+      "teams": [
+        "MV"
+      ],
+      "seasons": [
+        "Season 7",
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "63102",
+      "userName": "3clipse",
+      "displayName": "3clipse",
+      "totalRaces": 7,
+      "avgWpm": 138.1,
+      "avgAccuracy": 97.59,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 7,
+      "avgRacesPerSeason": 7,
+      "teams": [
+        "DNF"
+      ],
+      "seasons": [
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "73955",
+      "userName": "demon",
+      "displayName": "demon",
+      "totalRaces": 1997,
+      "avgWpm": 129.30916374561843,
+      "avgAccuracy": 98.42716574862293,
+      "duelsPlayed": 6,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 332.8333333333333,
+      "avgRacesPerSeason": 998.5,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63543",
+      "userName": "cats_r_cute",
+      "displayName": "{\"ℂⱥ𝓽𝖘™\"}#1racerW/GraffitiBus!",
+      "totalRaces": 201,
+      "avgWpm": 114.7412935323383,
+      "avgAccuracy": 95.48756218905473,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 67,
+      "avgRacesPerSeason": 100.5,
+      "teams": [
+        "ME0W"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71631",
+      "userName": "audena28",
+      "displayName": "S𝖑𝖆𝖘𝖍",
+      "totalRaces": 442,
+      "avgWpm": 99.25203619909503,
+      "avgAccuracy": 96.24289592760181,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 110.5,
+      "avgRacesPerSeason": 221,
+      "teams": [
+        "ME0W",
+        "RL1"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "62964",
+      "userName": "deanhp",
+      "displayName": "𝓓𝓮𝓪𝓷𝓗𝓟 Red boring car ROAD! ♰",
+      "totalRaces": 139,
+      "avgWpm": 86.99280575539568,
+      "avgAccuracy": 97.11611510791367,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 69.5,
+      "avgRacesPerSeason": 139,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "71720",
+      "userName": "bennny111",
+      "displayName": "Puprle",
+      "totalRaces": 1,
+      "avgWpm": 124,
+      "avgAccuracy": 96.6,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "RL1"
+      ],
+      "seasons": [
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "74022",
+      "userName": "tiny_blue_whale",
+      "displayName": "tiny_blue_whale",
+      "totalRaces": 681,
+      "avgWpm": 134.44331864904552,
+      "avgAccuracy": 95.895859030837,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 170.25,
+      "avgRacesPerSeason": 340.5,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74088",
+      "userName": "cosmos",
+      "displayName": "unrest",
+      "totalRaces": 1,
+      "avgWpm": 151.5,
+      "avgAccuracy": 98.3,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "RL1"
+      ],
+      "seasons": [
+        "Season 8"
+      ]
+    },
+    {
+      "racerId": "74237",
+      "userName": "hellobroimaniceguy",
+      "displayName": "Kind",
+      "totalRaces": 839,
+      "avgWpm": 90.265315852205,
+      "avgAccuracy": 96.9908462455304,
+      "duelsPlayed": 4,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 209.75,
+      "avgRacesPerSeason": 419.5,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74218",
+      "userName": "tempest",
+      "displayName": "theooo",
+      "totalRaces": 220,
+      "avgWpm": 140.23636363636365,
+      "avgAccuracy": 99.56681818181819,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 73.33333333333333,
+      "avgRacesPerSeason": 110,
+      "teams": [
+        "HOK"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74248",
+      "userName": "bawtwo",
+      "displayName": "𝙗𝙖𝙬 💫",
+      "totalRaces": 1680,
+      "avgWpm": 79.73273809523809,
+      "avgAccuracy": 97.28524404761905,
+      "duelsPlayed": 5,
+      "seasonsPlayed": 2,
+      "avgRacesPerDuel": 336,
+      "avgRacesPerSeason": 840,
+      "teams": [
+        "MV",
+        "ZN"
+      ],
+      "seasons": [
+        "Season 8",
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "70474",
+      "userName": "supmawrj",
+      "displayName": "Typelefter",
+      "totalRaces": 13,
+      "avgWpm": 78.9,
+      "avgAccuracy": 91.41,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 13,
+      "avgRacesPerSeason": 13,
+      "teams": [
+        "ME0W"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74427",
+      "userName": "dmcdelorean",
+      "displayName": "Diamond Typer",
+      "totalRaces": 14,
+      "avgWpm": 20.5,
+      "avgAccuracy": 95.06000000000002,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 14,
+      "avgRacesPerSeason": 14,
+      "teams": [
+        "ME0W"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74564",
+      "userName": "retep",
+      "displayName": "retep",
+      "totalRaces": 1,
+      "avgWpm": 122.9,
+      "avgAccuracy": 95.52,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 1,
+      "avgRacesPerSeason": 1,
+      "teams": [
+        "ME0W"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "73878",
+      "userName": "soccer_pro_on_nt",
+      "displayName": "SoccerPro need better accuracy",
+      "totalRaces": 2,
+      "avgWpm": 98.4,
+      "avgAccuracy": 93.38,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 2,
+      "avgRacesPerSeason": 2,
+      "teams": [
+        "UNREST"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "63120",
+      "userName": "autoreloadtester",
+      "displayName": "yfg augman",
+      "totalRaces": 263,
+      "avgWpm": 120.01558935361216,
+      "avgAccuracy": 98.54235741444867,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 87.66666666666667,
+      "avgRacesPerSeason": 263,
+      "teams": [
+        "RL1"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "72939",
+      "userName": "nurmal2x",
+      "displayName": "✨꧁𝑵𝒖𝒓𝒎𝒂𝒍2𝒙꧂✨ JOINMASTERS :)",
+      "totalRaces": 4,
+      "avgWpm": 57.3,
+      "avgAccuracy": 96.85,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 4,
+      "avgRacesPerSeason": 4,
+      "teams": [
+        "MASTER"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74319",
+      "userName": "guest_1a5d0085",
+      "displayName": "𝒮𝒶𝓁𝒶𝓂𝒾𝒹𝓎",
+      "totalRaces": 379,
+      "avgWpm": 89.60000000000001,
+      "avgAccuracy": 97.11,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 379,
+      "avgRacesPerSeason": 379,
+      "teams": [
+        "MASTER"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74400",
+      "userName": "arcanizer1",
+      "displayName": "Ɀҿ 𐤠ⲅᥴᥲɳꭵʑҿⲅ 7𝖐",
+      "totalRaces": 720,
+      "avgWpm": 140.15972222222223,
+      "avgAccuracy": 95.26715277777778,
+      "duelsPlayed": 3,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 240,
+      "avgRacesPerSeason": 720,
+      "teams": [
+        "RL1"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "71488",
+      "userName": "juizz",
+      "displayName": "jUiZz-",
+      "totalRaces": 34,
+      "avgWpm": 106.7,
+      "avgAccuracy": 97.6,
+      "duelsPlayed": 1,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 34,
+      "avgRacesPerSeason": 34,
+      "teams": [
+        "STRS"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    },
+    {
+      "racerId": "74686",
+      "userName": "foolsguld2",
+      "displayName": "FoolsGuld",
+      "totalRaces": 175,
+      "avgWpm": 111.2,
+      "avgAccuracy": 97.16,
+      "duelsPlayed": 2,
+      "seasonsPlayed": 1,
+      "avgRacesPerDuel": 87.5,
+      "avgRacesPerSeason": 175,
+      "teams": [
+        "RYZ"
+      ],
+      "seasons": [
+        "Season 9"
+      ]
+    }
+  ]
+}

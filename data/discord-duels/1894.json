@@ -1,0 +1,37 @@
+{
+  "id": 1894,
+  "season": "Alpha",
+  "racerCount": 2,
+  "racers": [
+    {
+      "racerId": "54589",
+      "userName": "little_typing_ghost",
+      "displayName": "Little  Ghost",
+      "tier": "A",
+      "team": "UNREST",
+      "squad": "",
+      "races": 1,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 130.6,
+      "accuracy": 97.75,
+      "perfectAccuracy": 0,
+      "points": 0
+    },
+    {
+      "racerId": "62729",
+      "userName": "ncorbital",
+      "displayName": "NCorbital",
+      "tier": "B",
+      "team": "UNREST",
+      "squad": "",
+      "races": 24,
+      "dqs": 2,
+      "dqRate": 7.69,
+      "wpm": 58.5,
+      "accuracy": 99.19,
+      "perfectAccuracy": 7,
+      "points": 0
+    }
+  ]
+}

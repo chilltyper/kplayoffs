@@ -1,0 +1,52 @@
+{
+  "id": 1916,
+  "season": "Season 1",
+  "racerCount": 3,
+  "racers": [
+    {
+      "racerId": "62958",
+      "userName": "miner24niner",
+      "displayName": "TypingMaster1",
+      "tier": "A",
+      "team": "TMS2",
+      "squad": "",
+      "races": 145,
+      "dqs": 3,
+      "dqRate": 2.03,
+      "wpm": 117.8,
+      "accuracy": 96.23,
+      "perfectAccuracy": 2,
+      "points": 0
+    },
+    {
+      "racerId": "63564",
+      "userName": "nitrochill",
+      "displayName": "chill",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "Phoenix Overlord",
+      "races": 339,
+      "dqs": 27,
+      "dqRate": 7.38,
+      "wpm": 132.3,
+      "accuracy": 96.43,
+      "perfectAccuracy": 0,
+      "points": 101684
+    },
+    {
+      "racerId": "63682",
+      "userName": "ncxyt",
+      "displayName": "unrest",
+      "tier": "B",
+      "team": "DISBAND",
+      "squad": "Phoenix Warlords",
+      "races": 87,
+      "dqs": 16,
+      "dqRate": 15.53,
+      "wpm": 133.8,
+      "accuracy": 97.35,
+      "perfectAccuracy": 0,
+      "points": 27795
+    }
+  ]
+}

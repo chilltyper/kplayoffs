@@ -1,0 +1,67 @@
+{
+  "id": 1898,
+  "season": "Alpha",
+  "racerCount": 4,
+  "racers": [
+    {
+      "racerId": "23866",
+      "userName": "benjamin",
+      "displayName": "𝕸𝔢𝔱𝔢𝔩𝔩𝔲𝔰 𝕮𝔦𝔪𝔟𝔢𝔯",
+      "tier": "B",
+      "team": "DISBAND",
+      "squad": "Rookie ",
+      "races": 41,
+      "dqs": 0,
+      "dqRate": 0,
+      "wpm": 97.8,
+      "accuracy": 95.11,
+      "perfectAccuracy": 0,
+      "points": 0
+    },
+    {
+      "racerId": "29433",
+      "userName": "superjoelzy",
+      "displayName": "𝕵🏵є𝓵zч",
+      "tier": "B",
+      "team": "KPD1",
+      "squad": "",
+      "races": 46,
+      "dqs": 6,
+      "dqRate": 11.54,
+      "wpm": 92.1,
+      "accuracy": 96.18,
+      "perfectAccuracy": 0,
+      "points": 0
+    },
+    {
+      "racerId": "62857",
+      "userName": "abeldz",
+      "displayName": "SoooooooMuuuuuchSchoooooool",
+      "tier": "A",
+      "team": "DISBAND",
+      "squad": "Master ",
+      "races": 97,
+      "dqs": 5,
+      "dqRate": 4.9,
+      "wpm": 91.2,
+      "accuracy": 95.94,
+      "perfectAccuracy": 0,
+      "points": 0
+    },
+    {
+      "racerId": "62930",
+      "userName": "stingray",
+      "displayName": " Stingray ",
+      "tier": "C",
+      "team": "DISBAND",
+      "squad": "Novice",
+      "races": 59,
+      "dqs": 3,
+      "dqRate": 4.84,
+      "wpm": 65.5,
+      "accuracy": 93.92,
+      "perfectAccuracy": 0,
+      "points": 0
+    }
+  ]
+}
