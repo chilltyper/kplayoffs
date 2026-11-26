@@ -12,21 +12,22 @@ export function aggregatePlayers(competitionResults) {
   const players = new Map();
 
   for (const competition of competitionResults) {
-    // Prevent accidental duplicate entries within a duel.
     const seenInDuel = new Set();
 
     for (const racer of competition.racers || []) {
       const id = String(racer.racerId ?? "").trim();
       const races = toNumber(racer.races);
 
-      // Only count players who actually raced.
+      // Only include players who completed at least one race.
       if (!id || !Number.isFinite(races) || races <= 0) {
         continue;
       }
 
+      // Prevent duplicate entries within the same duel.
       if (seenInDuel.has(id)) continue;
       seenInDuel.add(id);
 
+      // Create a new player record if necessary.
       if (!players.has(id)) {
         players.set(id, {
           racerId: id,
@@ -35,6 +36,7 @@ export function aggregatePlayers(competitionResults) {
 
           totalRaces: 0,
 
+          // These MUST be Sets because we use .add() below.
           duelIds: new Set(),
           seasons: new Set(),
           teams: new Set(),
@@ -52,50 +54,47 @@ export function aggregatePlayers(competitionResults) {
       const wpm = toNumber(racer.wpm);
       const accuracy = toNumber(racer.accuracy);
 
-      // Add the race count.
+      // Total races.
       player.totalRaces += races;
 
-      // Record unique competitions and seasons.
+      // Unique duels and seasons.
       player.duelIds.add(String(competition.id));
 
       if (competition.season) {
         player.seasons.add(competition.season);
       }
 
-      // Record every team the player has represented.
+      // Unique teams.
       const team = String(racer.team || "").trim();
 
       if (team) {
         player.teams.add(team);
       }
 
-      // Race-weighted WPM.
+      // Race-weighted average WPM.
       if (Number.isFinite(wpm)) {
         player.weightedWpm += wpm * races;
         player.wpmWeight += races;
       }
 
-      // Race-weighted accuracy.
+      // Race-weighted average accuracy.
       if (Number.isFinite(accuracy)) {
         player.weightedAccuracy += accuracy * races;
         player.accuracyWeight += races;
       }
 
-      // Keep the most recently encountered available names.
+      // Use the current names returned by the API.
       if (racer.displayName?.trim()) {
         player.displayName = racer.displayName.trim();
       }
 
-        // Store every observed username.
-        if (racer.userName?.trim()) {
-        const name = racer.userName.trim();
-        
-        player.userNames.add(name);
-        player.userName = name;
-        }
+      if (racer.userName?.trim()) {
+        player.userName = racer.userName.trim();
+      }
     }
   }
 
+  // Convert internal records into regular JavaScript objects.
   return Array.from(players.values()).map(player => {
     const duelsPlayed = player.duelIds.size;
     const seasonsPlayed = player.seasons.size;
@@ -118,20 +117,28 @@ export function aggregatePlayers(competitionResults) {
       duelsPlayed,
       seasonsPlayed,
 
-      avgRacesPerDuel: player.totalRaces / duelsPlayed,
+      avgRacesPerDuel: duelsPlayed > 0
+        ? player.totalRaces / duelsPlayed
+        : 0,
 
-      avgRacesPerSeason: player.totalRaces / seasonsPlayed,
+      avgRacesPerSeason: seasonsPlayed > 0
+        ? player.totalRaces / seasonsPlayed
+        : 0,
 
       teams: [...player.teams].sort(),
 
-      seasons: [...player.seasons].sort()
+      seasons: [...player.seasons]
     };
   });
 }
 
 
-// Sort players by any supported statistic.
-export function sortPlayers(players, sortKey, direction) {
+// Sort players by any selected leaderboard column.
+export function sortPlayers(
+  players,
+  sortKey = "totalRaces",
+  direction = "desc"
+) {
   const sorted = [...players];
 
   sorted.sort((a, b) => {
@@ -146,7 +153,7 @@ export function sortPlayers(players, sortKey, direction) {
       bValue = bValue.join(", ");
     }
 
-    // Always keep unavailable values at the bottom.
+    // Always place missing values at the bottom.
     if (aValue == null && bValue != null) return 1;
     if (bValue == null && aValue != null) return -1;
     if (aValue == null && bValue == null) return 0;
@@ -182,6 +189,7 @@ export function sortPlayers(players, sortKey, direction) {
     );
   });
 
+  // Sort the entire database BEFORE limiting to 100.
   return sorted.slice(0, 100).map((player, index) => ({
     ...player,
     rank: index + 1
