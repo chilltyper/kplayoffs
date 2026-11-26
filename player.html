@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Player Profile | KPLAYOFFS</title>
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+
+  <script type="module" src="js/player.js" defer></script>
+</head>
+
+<body>
+
+  <header class="header">
+    <a href="index.html" class="brand">KPLAYOFFS</a>
+
+    <nav class="navigation">
+      <a href="index.html">Leaderboard</a>
+      <a href="mvp.html">MVPs</a>
+    </nav>
+  </header>
+
+  <main class="container">
+
+    <section class="intro profile-intro">
+
+      <a href="index.html" class="profile-back">
+        ← Back to leaderboard
+      </a>
+
+      <h1 id="player-name">Loading profile...</h1>
+
+      <p id="player-meta" class="profile-meta"></p>
+
+      <div id="player-teams" class="profile-teams"></div>
+
+      <p id="profile-error" class="profile-error" hidden></p>
+
+    </section>
+
+    <section class="stats-overview profile-stats">
+
+      <article class="stat-card">
+        <span>Total races</span>
+        <strong id="profile-races">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Average WPM</span>
+        <strong id="profile-wpm">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Average accuracy</span>
+        <strong id="profile-accuracy">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Duels played</span>
+        <strong id="profile-duels">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Seasons played</span>
+        <strong id="profile-seasons">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Avg. races / duel</span>
+        <strong id="profile-races-duel">—</strong>
+      </article>
+
+      <article class="stat-card">
+        <span>Avg. races / season</span>
+        <strong id="profile-races-season">—</strong>
+      </article>
+
+    </section>
+
+    <section class="profile-section">
+
+      <h2>Season History</h2>
+
+      <div class="table-wrapper">
+
+        <table class="profile-table">
+
+          <thead>
+            <tr>
+              <th>Season</th>
+              <th>Duels</th>
+              <th>Total races</th>
+              <th>Avg. WPM</th>
+              <th>Avg. accuracy</th>
+            </tr>
+          </thead>
+
+          <tbody id="season-history-body"></tbody>
+
+        </table>
+
+      </div>
+
+    </section>
+
+    <section class="profile-section">
+
+      <h2>Duel History</h2>
+
+      <p class="profile-description">
+        Individual competition performances across all seasons.
+      </p>
+
+      <div class="table-wrapper">
+
+        <table class="profile-table">
+
+          <thead>
+            <tr>
+              <th>Season</th>
+              <th>Duel</th>
+              <th>Team</th>
+              <th>Squad</th>
+              <th>Races</th>
+              <th>WPM</th>
+              <th>Accuracy</th>
+            </tr>
+          </thead>
+
+          <tbody id="duel-history-body"></tbody>
+
+        </table>
+
+      </div>
+
+    </section>
+
+  </main>
+
+</body>
+</html>

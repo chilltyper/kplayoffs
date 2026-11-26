@@ -86,9 +86,13 @@ export function aggregatePlayers(competitionResults) {
         player.displayName = racer.displayName.trim();
       }
 
-      if (racer.userName?.trim()) {
-        player.userName = racer.userName.trim();
-      }
+        // Store every observed username.
+        if (racer.userName?.trim()) {
+        const name = racer.userName.trim();
+        
+        player.userNames.add(name);
+        player.userName = name;
+        }
     }
   }
 

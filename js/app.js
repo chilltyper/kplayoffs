@@ -77,11 +77,28 @@ function renderLeaderboard() {
       player.avgRacesPerSeason.toFixed(1)
     ];
 
-    values.forEach(value => {
+    
+    values.forEach((value, valueIndex) => {
       const cell = document.createElement("td");
-      cell.textContent = String(value);
+
+      // The second column contains the player name.
+      if (valueIndex === 1) {
+        const link = document.createElement("a");
+
+        link.href =
+          `player.html?id=${encodeURIComponent(player.racerId)}`;
+
+        link.textContent = String(value);
+        link.className = "player-link";
+
+        cell.appendChild(link);
+      } else {
+        cell.textContent = String(value);
+      }
+
       row.appendChild(cell);
     });
+
 
     tableBody.appendChild(row);
   });
