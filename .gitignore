@@ -10,3 +10,20 @@ api-worker/.wrangler/
 
 .DS_Store
 *.log
+
+
+# Discord bot secrets
+discord-bot/.env
+discord-bot/node_modules/
+
+
+
+# Local VS Code settings
+.vscode/
+
+# Discord bot secrets and dependencies
+discord-bot/.env
+discord-bot/node_modules/
+
+# Cloudflare local secrets
+api-worker/.dev.vars*

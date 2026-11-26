@@ -137,7 +137,8 @@ export function aggregatePlayers(competitionResults) {
 export function sortPlayers(
   players,
   sortKey = "totalRaces",
-  direction = "desc"
+  direction = "desc",
+  limit = 100
 ) {
   const sorted = [...players];
 
@@ -190,7 +191,11 @@ export function sortPlayers(
   });
 
   // Sort the entire database BEFORE limiting to 100.
-  return sorted.slice(0, 100).map((player, index) => ({
+  const limited = limit === null
+    ? sorted
+    : sorted.slice(0, limit);
+
+  return limited.map((player, index) => ({
     ...player,
     rank: index + 1
   }));
