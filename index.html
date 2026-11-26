@@ -5,44 +5,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Klavia Playoffs</title>
+  <title>Klavia Playoff Stats</title>
 
   <link rel="stylesheet" href="css/style.css">
-
   <script type="module" src="js/app.js" defer></script>
 </head>
 
 <body>
 
-  <header class="header" id="overview">
-
-    <a href="#overview" class="brand">
-      <span class="brand-icon">K</span>
-      <span>
-        <strong>KLAVIA</strong>
-        <small>PLAYOFFS ARCHIVE</small>
-      </span>
-    </a>
+  <header class="header">
+    <a href="index.html" class="brand">KPLAYOFFS</a>
 
     <nav class="navigation">
-      <a href="#overview">Overview</a>
-      <a href="#leaderboard">Leaderboards</a>
-      <a href="#mvp">MVP</a>
+      <a href="index.html" class="active">Leaderboard</a>
+      <a href="mvp.html">MVPs</a>
     </nav>
-
   </header>
 
   <main class="container">
 
     <section class="intro">
-      <p class="eyebrow">COMPETITIVE ARCHIVE / ALL SEASONS</p>
-
-      <h1>Playoffs <span>Statistics.</span></h1>
-
-      <p class="intro-description">
-        A complete record of playoff performances,
-        competitors, and statistics across every season.
-      </p>
+      <h1>Klavia Playoff Stats</h1>
     </section>
 
     <section class="stats-overview">
@@ -68,7 +51,6 @@
 
       <div class="section-heading">
         <div>
-          <p class="eyebrow">OVERALL RANKINGS</p>
           <h2>All-Time Leaderboard</h2>
           <p>Click any column heading to sort the rankings.</p>
         </div>
@@ -77,7 +59,7 @@
       </div>
 
       <div class="table-status" id="table-status">
-        Preparing leaderboard...
+        Loading playoff statistics...
       </div>
 
       <div class="table-wrapper">
@@ -144,8 +126,7 @@
             </tr>
           </thead>
 
-          <tbody id="leaderboard-body">
-          </tbody>
+          <tbody id="leaderboard-body"></tbody>
 
         </table>
 
@@ -157,26 +138,7 @@
 
     </section>
 
-    <section class="mvp-section" id="mvp">
-
-      <p class="eyebrow">MANUAL RANKINGS</p>
-      <h2>Playoffs MVP</h2>
-
-      <p>
-        The MVP leaderboard will be maintained separately
-        from the automatically calculated statistics.
-      </p>
-
-      <span class="coming-label">COMING SOON</span>
-
-    </section>
-
   </main>
-
-  <footer>
-    <span>KLAVIA PLAYOFFS ARCHIVE</span>
-    <span>COMPETITIVE STATISTICS</span>
-  </footer>
 
 </body>
 </html>
